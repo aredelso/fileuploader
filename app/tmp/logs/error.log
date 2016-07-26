@@ -1,0 +1,1383 @@
+2016-07-22 21:59:33 Error: Fatal Error (1): Class 'App\Controller\AppController' not found in [C:\xampp\htdocs\fileuploader\app\Controller\HomeController.php, line 5]
+2016-07-22 21:59:33 Error: [FatalErrorException] Class 'App\Controller\AppController' not found
+Request URL: /fileuploader/home/index
+Stack Trace:
+#0 C:\xampp\htdocs\fileuploader\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Class 'App\\Cont...', 'C:\\xampp\\htdocs...', 5)
+#1 [internal function]: ErrorHandler::handleError(1, 'Class 'App\\Cont...', 'C:\\xampp\\htdocs...', 5, Array)
+#2 C:\xampp\htdocs\fileuploader\lib\Cake\Core\App.php(970): call_user_func('ErrorHandler::h...', 1, 'Class 'App\\Cont...', 'C:\\xampp\\htdocs...', 5, Array)
+#3 C:\xampp\htdocs\fileuploader\lib\Cake\Core\App.php(943): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-07-22 22:00:17 Error: Fatal Error (1): Class 'App\Controller\AppController' not found in [C:\xampp\htdocs\fileuploader\app\Controller\HomeController.php, line 5]
+2016-07-22 22:00:17 Error: [FatalErrorException] Class 'App\Controller\AppController' not found
+Request URL: /fileuploader/home/index
+Stack Trace:
+#0 C:\xampp\htdocs\fileuploader\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Class 'App\\Cont...', 'C:\\xampp\\htdocs...', 5)
+#1 [internal function]: ErrorHandler::handleError(1, 'Class 'App\\Cont...', 'C:\\xampp\\htdocs...', 5, Array)
+#2 C:\xampp\htdocs\fileuploader\lib\Cake\Core\App.php(970): call_user_func('ErrorHandler::h...', 1, 'Class 'App\\Cont...', 'C:\\xampp\\htdocs...', 5, Array)
+#3 C:\xampp\htdocs\fileuploader\lib\Cake\Core\App.php(943): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-07-22 22:00:52 Error: Fatal Error (1): Class 'App\Controller\AppController' not found in [C:\xampp\htdocs\fileuploader\app\Controller\HomeController.php, line 5]
+2016-07-22 22:00:52 Error: [FatalErrorException] Class 'App\Controller\AppController' not found
+Request URL: /fileuploader/home/index
+Stack Trace:
+#0 C:\xampp\htdocs\fileuploader\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Class 'App\\Cont...', 'C:\\xampp\\htdocs...', 5)
+#1 [internal function]: ErrorHandler::handleError(1, 'Class 'App\\Cont...', 'C:\\xampp\\htdocs...', 5, Array)
+#2 C:\xampp\htdocs\fileuploader\lib\Cake\Core\App.php(970): call_user_func('ErrorHandler::h...', 1, 'Class 'App\\Cont...', 'C:\\xampp\\htdocs...', 5, Array)
+#3 C:\xampp\htdocs\fileuploader\lib\Cake\Core\App.php(943): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-07-22 22:00:57 Error: Fatal Error (1): Class 'App\Controller\AppController' not found in [C:\xampp\htdocs\fileuploader\app\Controller\HomeController.php, line 5]
+2016-07-22 22:00:57 Error: [FatalErrorException] Class 'App\Controller\AppController' not found
+Request URL: /fileuploader/
+Stack Trace:
+#0 C:\xampp\htdocs\fileuploader\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Class 'App\\Cont...', 'C:\\xampp\\htdocs...', 5)
+#1 [internal function]: ErrorHandler::handleError(1, 'Class 'App\\Cont...', 'C:\\xampp\\htdocs...', 5, Array)
+#2 C:\xampp\htdocs\fileuploader\lib\Cake\Core\App.php(970): call_user_func('ErrorHandler::h...', 1, 'Class 'App\\Cont...', 'C:\\xampp\\htdocs...', 5, Array)
+#3 C:\xampp\htdocs\fileuploader\lib\Cake\Core\App.php(943): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-07-22 22:00:59 Error: Fatal Error (1): Class 'App\Controller\AppController' not found in [C:\xampp\htdocs\fileuploader\app\Controller\HomeController.php, line 5]
+2016-07-22 22:00:59 Error: [FatalErrorException] Class 'App\Controller\AppController' not found
+Request URL: /fileuploader/
+Stack Trace:
+#0 C:\xampp\htdocs\fileuploader\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Class 'App\\Cont...', 'C:\\xampp\\htdocs...', 5)
+#1 [internal function]: ErrorHandler::handleError(1, 'Class 'App\\Cont...', 'C:\\xampp\\htdocs...', 5, Array)
+#2 C:\xampp\htdocs\fileuploader\lib\Cake\Core\App.php(970): call_user_func('ErrorHandler::h...', 1, 'Class 'App\\Cont...', 'C:\\xampp\\htdocs...', 5, Array)
+#3 C:\xampp\htdocs\fileuploader\lib\Cake\Core\App.php(943): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-07-22 22:03:49 Error: Fatal Error (1): Call to a member function find() on null in [C:\xampp\htdocs\fileuploader\app\Controller\HomeController.php, line 56]
+2016-07-22 22:03:49 Error: [FatalErrorException] Call to a member function find() on null
+Request URL: /fileuploader/
+Stack Trace:
+#0 C:\xampp\htdocs\fileuploader\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Call to a membe...', 'C:\\xampp\\htdocs...', 56)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', 'C:\\xampp\\htdocs...', 56, Array)
+#2 C:\xampp\htdocs\fileuploader\lib\Cake\Core\App.php(970): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', 'C:\\xampp\\htdocs...', 56, Array)
+#3 C:\xampp\htdocs\fileuploader\lib\Cake\Core\App.php(943): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-07-22 22:04:15 Error: [MissingTableException] Table homes for model Home was not found in datasource default.
+Exception Attributes: array (
+  'table' => 'homes',
+  'class' => 'Home',
+  'ds' => 'default',
+)
+Request URL: /fileuploader/
+Stack Trace:
+#0 C:\xampp\htdocs\fileuploader\lib\Cake\Model\Model.php(3653): Model->setSource('homes')
+#1 C:\xampp\htdocs\fileuploader\lib\Cake\Model\Model.php(1387): Model->getDataSource()
+#2 C:\xampp\htdocs\fileuploader\lib\Cake\View\Helper\FormHelper.php(215): Model->schema()
+#3 C:\xampp\htdocs\fileuploader\lib\Cake\View\Helper\FormHelper.php(480): FormHelper->_introspectModel('Home', 'fields')
+#4 C:\xampp\htdocs\fileuploader\app\View\Home\index.ctp(5): FormHelper->create(NULL, Array)
+#5 C:\xampp\htdocs\fileuploader\lib\Cake\View\View.php(971): include('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\fileuploader\lib\Cake\View\View.php(933): View->_evaluate('C:\\xampp\\htdocs...', Array)
+#7 C:\xampp\htdocs\fileuploader\lib\Cake\View\View.php(473): View->_render('C:\\xampp\\htdocs...')
+#8 C:\xampp\htdocs\fileuploader\lib\Cake\Controller\Controller.php(963): View->render(NULL, NULL)
+#9 C:\xampp\htdocs\fileuploader\lib\Cake\Routing\Dispatcher.php(200): Controller->render()
+#10 C:\xampp\htdocs\fileuploader\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(HomeController), Object(CakeRequest))
+#11 C:\xampp\htdocs\fileuploader\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#12 {main}
+2016-07-22 22:04:51 Error: [MissingControllerException] Controller class FilesController could not be found.
+Exception Attributes: array (
+  'class' => 'FilesController',
+  'plugin' => NULL,
+)
+Request URL: /fileuploader/
+Stack Trace:
+#0 C:\xampp\htdocs\fileuploader\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-07-22 22:05:51 Error: [MissingControllerException] Controller class FilesController could not be found.
+Exception Attributes: array (
+  'class' => 'FilesController',
+  'plugin' => NULL,
+)
+Request URL: /fileuploader/
+Stack Trace:
+#0 C:\xampp\htdocs\fileuploader\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-07-22 22:06:06 Error: [MissingControllerException] Controller class FilesController could not be found.
+Exception Attributes: array (
+  'class' => 'FilesController',
+  'plugin' => NULL,
+)
+Request URL: /fileuploader/
+Stack Trace:
+#0 C:\xampp\htdocs\fileuploader\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-07-22 22:07:26 Error: [MissingControllerException] Controller class FilesController could not be found.
+Exception Attributes: array (
+  'class' => 'FilesController',
+  'plugin' => NULL,
+)
+Request URL: /fileuploader/
+Stack Trace:
+#0 C:\xampp\htdocs\fileuploader\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-07-22 22:09:37 Error: [MissingControllerException] Controller class FilesController could not be found.
+Exception Attributes: array (
+  'class' => 'FilesController',
+  'plugin' => NULL,
+)
+Request URL: /fileuploader/
+Stack Trace:
+#0 C:\xampp\htdocs\fileuploader\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-07-22 22:09:53 Error: [MissingViewException] View file "Files\index.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'Files\\index.ctp',
+)
+Request URL: /fileuploader/
+Stack Trace:
+#0 C:\xampp\htdocs\fileuploader\lib\Cake\View\View.php(470): View->_getViewFileName(NULL)
+#1 C:\xampp\htdocs\fileuploader\lib\Cake\Controller\Controller.php(963): View->render(NULL, NULL)
+#2 C:\xampp\htdocs\fileuploader\lib\Cake\Routing\Dispatcher.php(200): Controller->render()
+#3 C:\xampp\htdocs\fileuploader\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(FilesController), Object(CakeRequest))
+#4 C:\xampp\htdocs\fileuploader\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2016-07-22 22:11:47 Error: Fatal Error (1): Call to a member function find() on null in [C:\xampp\htdocs\fileuploader\app\Controller\FilesController.php, line 56]
+2016-07-22 22:11:47 Error: [FatalErrorException] Call to a member function find() on null
+Request URL: /fileuploader/
+Stack Trace:
+#0 C:\xampp\htdocs\fileuploader\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Call to a membe...', 'C:\\xampp\\htdocs...', 56)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', 'C:\\xampp\\htdocs...', 56, Array)
+#2 C:\xampp\htdocs\fileuploader\lib\Cake\Core\App.php(970): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', 'C:\\xampp\\htdocs...', 56, Array)
+#3 C:\xampp\htdocs\fileuploader\lib\Cake\Core\App.php(943): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-07-22 22:15:37 Error: Fatal Error (1): Call to a member function find() on null in [C:\xampp\htdocs\fileuploader\app\Controller\FilesController.php, line 55]
+2016-07-22 22:15:37 Error: [FatalErrorException] Call to a member function find() on null
+Request URL: /fileuploader/
+Stack Trace:
+#0 C:\xampp\htdocs\fileuploader\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Call to a membe...', 'C:\\xampp\\htdocs...', 55)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', 'C:\\xampp\\htdocs...', 55, Array)
+#2 C:\xampp\htdocs\fileuploader\lib\Cake\Core\App.php(970): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', 'C:\\xampp\\htdocs...', 55, Array)
+#3 C:\xampp\htdocs\fileuploader\lib\Cake\Core\App.php(943): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-07-22 22:16:26 Error: Fatal Error (1): Call to a member function find() on null in [C:\xampp\htdocs\fileuploader\app\Controller\FilesController.php, line 55]
+2016-07-22 22:16:26 Error: [FatalErrorException] Call to a member function find() on null
+Request URL: /fileuploader/
+Stack Trace:
+#0 C:\xampp\htdocs\fileuploader\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Call to a membe...', 'C:\\xampp\\htdocs...', 55)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', 'C:\\xampp\\htdocs...', 55, Array)
+#2 C:\xampp\htdocs\fileuploader\lib\Cake\Core\App.php(970): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', 'C:\\xampp\\htdocs...', 55, Array)
+#3 C:\xampp\htdocs\fileuploader\lib\Cake\Core\App.php(943): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-07-22 22:31:55 Error: Fatal Error (1): Call to a member function find() on null in [C:\xampp\htdocs\fileuploader\app\Controller\FilesController.php, line 56]
+2016-07-22 22:31:55 Error: [FatalErrorException] Call to a member function find() on null
+Request URL: /fileuploader/
+Stack Trace:
+#0 C:\xampp\htdocs\fileuploader\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Call to a membe...', 'C:\\xampp\\htdocs...', 56)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', 'C:\\xampp\\htdocs...', 56, Array)
+#2 C:\xampp\htdocs\fileuploader\lib\Cake\Core\App.php(970): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', 'C:\\xampp\\htdocs...', 56, Array)
+#3 C:\xampp\htdocs\fileuploader\lib\Cake\Core\App.php(943): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-07-22 22:50:13 Error: Fatal Error (1): Call to a member function find() on null in [C:\xampp\htdocs\fileuploader\app\Controller\FilesController.php, line 69]
+2016-07-22 22:50:13 Error: [FatalErrorException] Call to a member function find() on null
+Request URL: /fileuploader/
+Stack Trace:
+#0 C:\xampp\htdocs\fileuploader\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Call to a membe...', 'C:\\xampp\\htdocs...', 69)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', 'C:\\xampp\\htdocs...', 69, Array)
+#2 C:\xampp\htdocs\fileuploader\lib\Cake\Core\App.php(970): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', 'C:\\xampp\\htdocs...', 69, Array)
+#3 C:\xampp\htdocs\fileuploader\lib\Cake\Core\App.php(943): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-07-22 22:51:04 Error: Fatal Error (1): Call to a member function find() on null in [C:\xampp\htdocs\fileuploader\app\Controller\FilesController.php, line 69]
+2016-07-22 22:51:04 Error: [FatalErrorException] Call to a member function find() on null
+Request URL: /fileuploader/
+Stack Trace:
+#0 C:\xampp\htdocs\fileuploader\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Call to a membe...', 'C:\\xampp\\htdocs...', 69)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', 'C:\\xampp\\htdocs...', 69, Array)
+#2 C:\xampp\htdocs\fileuploader\lib\Cake\Core\App.php(970): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', 'C:\\xampp\\htdocs...', 69, Array)
+#3 C:\xampp\htdocs\fileuploader\lib\Cake\Core\App.php(943): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-07-22 23:30:12 Error: Fatal Error (1): Call to a member function find() on null in [C:\xampp\htdocs\fileuploader\app\Controller\FilesController.php, line 69]
+2016-07-22 23:30:12 Error: [FatalErrorException] Call to a member function find() on null
+Request URL: /fileuploader/
+Stack Trace:
+#0 C:\xampp\htdocs\fileuploader\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Call to a membe...', 'C:\\xampp\\htdocs...', 69)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', 'C:\\xampp\\htdocs...', 69, Array)
+#2 C:\xampp\htdocs\fileuploader\lib\Cake\Core\App.php(970): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', 'C:\\xampp\\htdocs...', 69, Array)
+#3 C:\xampp\htdocs\fileuploader\lib\Cake\Core\App.php(943): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-07-23 01:49:56 Error: Fatal Error (1): Call to a member function find() on null in [C:\xampp\htdocs\fileuploader\app\Controller\FilesController.php, line 69]
+2016-07-23 01:49:56 Error: [FatalErrorException] Call to a member function find() on null
+Request URL: /fileuploader/
+Stack Trace:
+#0 C:\xampp\htdocs\fileuploader\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Call to a membe...', 'C:\\xampp\\htdocs...', 69)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', 'C:\\xampp\\htdocs...', 69, Array)
+#2 C:\xampp\htdocs\fileuploader\lib\Cake\Core\App.php(970): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', 'C:\\xampp\\htdocs...', 69, Array)
+#3 C:\xampp\htdocs\fileuploader\lib\Cake\Core\App.php(943): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-07-23 02:21:38 Error: [MissingControllerException] Controller class FilesController could not be found.
+Exception Attributes: array (
+  'class' => 'FilesController',
+  'plugin' => NULL,
+)
+Request URL: /fileuploader/
+Stack Trace:
+#0 C:\xampp\htdocs\fileuploader\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-07-23 02:26:22 Error: Fatal Error (4): syntax error, unexpected 'Upload’' (T_STRING) in [C:\xampp\htdocs\fileuploader\app\View\Files\index.ctp, line 3]
+2016-07-23 02:26:22 Error: [FatalErrorException] syntax error, unexpected 'Upload’' (T_STRING)
+Request URL: /fileuploader/
+Stack Trace:
+#0 C:\xampp\htdocs\fileuploader\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'C:\\xampp\\htdocs...', 3)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'C:\\xampp\\htdocs...', 3, Array)
+#2 C:\xampp\htdocs\fileuploader\lib\Cake\Core\App.php(970): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'C:\\xampp\\htdocs...', 3, Array)
+#3 C:\xampp\htdocs\fileuploader\lib\Cake\Core\App.php(943): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-07-23 02:32:02 Error: [MissingActionException] Action FilesController::index() could not be found.
+Exception Attributes: array (
+  'controller' => 'FilesController',
+  'action' => 'index',
+)
+Request URL: /fileuploader/
+Stack Trace:
+#0 C:\xampp\htdocs\fileuploader\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\fileuploader\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(FilesController), Object(CakeRequest))
+#2 C:\xampp\htdocs\fileuploader\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2016-07-23 02:35:21 Error: Fatal Error (4): syntax error, unexpected '$this' (T_VARIABLE), expecting function (T_FUNCTION) in [C:\xampp\htdocs\fileuploader\app\Controller\FilesController.php, line 22]
+2016-07-23 02:35:21 Error: [FatalErrorException] syntax error, unexpected '$this' (T_VARIABLE), expecting function (T_FUNCTION)
+Request URL: /fileuploader/
+Stack Trace:
+#0 C:\xampp\htdocs\fileuploader\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'C:\\xampp\\htdocs...', 22)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'C:\\xampp\\htdocs...', 22, Array)
+#2 C:\xampp\htdocs\fileuploader\lib\Cake\Core\App.php(970): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'C:\\xampp\\htdocs...', 22, Array)
+#3 C:\xampp\htdocs\fileuploader\lib\Cake\Core\App.php(943): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-07-23 02:35:51 Error: Fatal Error (4): syntax error, unexpected '$this' (T_VARIABLE), expecting function (T_FUNCTION) in [C:\xampp\htdocs\fileuploader\app\Controller\FilesController.php, line 22]
+2016-07-23 02:35:51 Error: [FatalErrorException] syntax error, unexpected '$this' (T_VARIABLE), expecting function (T_FUNCTION)
+Request URL: /fileuploader/
+Stack Trace:
+#0 C:\xampp\htdocs\fileuploader\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'C:\\xampp\\htdocs...', 22)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'C:\\xampp\\htdocs...', 22, Array)
+#2 C:\xampp\htdocs\fileuploader\lib\Cake\Core\App.php(970): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'C:\\xampp\\htdocs...', 22, Array)
+#3 C:\xampp\htdocs\fileuploader\lib\Cake\Core\App.php(943): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-07-23 02:36:37 Error: [MissingActionException] Action FilesController::index() could not be found.
+Exception Attributes: array (
+  'controller' => 'FilesController',
+  'action' => 'index',
+)
+Request URL: /fileuploader/
+Stack Trace:
+#0 C:\xampp\htdocs\fileuploader\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\fileuploader\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(FilesController), Object(CakeRequest))
+#2 C:\xampp\htdocs\fileuploader\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2016-07-23 02:43:35 Error: Fatal Error (1): Call to a member function find() on null in [C:\xampp\htdocs\fileuploader\app\Controller\FilesController.php, line 56]
+2016-07-23 02:43:35 Error: [FatalErrorException] Call to a member function find() on null
+Request URL: /fileuploader/
+Stack Trace:
+#0 C:\xampp\htdocs\fileuploader\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Call to a membe...', 'C:\\xampp\\htdocs...', 56)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', 'C:\\xampp\\htdocs...', 56, Array)
+#2 C:\xampp\htdocs\fileuploader\lib\Cake\Core\App.php(970): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', 'C:\\xampp\\htdocs...', 56, Array)
+#3 C:\xampp\htdocs\fileuploader\lib\Cake\Core\App.php(943): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-07-23 02:44:23 Error: Fatal Error (1): Call to a member function find() on null in [C:\xampp\htdocs\fileuploader\app\Controller\FilesController.php, line 56]
+2016-07-23 02:44:23 Error: [FatalErrorException] Call to a member function find() on null
+Request URL: /fileuploader/
+Stack Trace:
+#0 C:\xampp\htdocs\fileuploader\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Call to a membe...', 'C:\\xampp\\htdocs...', 56)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', 'C:\\xampp\\htdocs...', 56, Array)
+#2 C:\xampp\htdocs\fileuploader\lib\Cake\Core\App.php(970): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', 'C:\\xampp\\htdocs...', 56, Array)
+#3 C:\xampp\htdocs\fileuploader\lib\Cake\Core\App.php(943): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-07-23 02:48:02 Error: Fatal Error (1): Call to a member function find() on null in [C:\xampp\htdocs\fileuploader\app\Controller\FilesController.php, line 56]
+2016-07-23 02:48:02 Error: [FatalErrorException] Call to a member function find() on null
+Request URL: /fileuploader/
+Stack Trace:
+#0 C:\xampp\htdocs\fileuploader\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Call to a membe...', 'C:\\xampp\\htdocs...', 56)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', 'C:\\xampp\\htdocs...', 56, Array)
+#2 C:\xampp\htdocs\fileuploader\lib\Cake\Core\App.php(970): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', 'C:\\xampp\\htdocs...', 56, Array)
+#3 C:\xampp\htdocs\fileuploader\lib\Cake\Core\App.php(943): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-07-23 02:52:15 Error: Fatal Error (1): Call to a member function find() on null in [C:\xampp\htdocs\fileuploader\app\Controller\FilesController.php, line 22]
+2016-07-23 02:52:15 Error: [FatalErrorException] Call to a member function find() on null
+Request URL: /fileuploader/
+Stack Trace:
+#0 C:\xampp\htdocs\fileuploader\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Call to a membe...', 'C:\\xampp\\htdocs...', 22)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', 'C:\\xampp\\htdocs...', 22, Array)
+#2 C:\xampp\htdocs\fileuploader\lib\Cake\Core\App.php(970): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', 'C:\\xampp\\htdocs...', 22, Array)
+#3 C:\xampp\htdocs\fileuploader\lib\Cake\Core\App.php(943): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-07-23 02:52:33 Error: Fatal Error (1): Call to a member function find() on null in [C:\xampp\htdocs\fileuploader\app\Controller\FilesController.php, line 26]
+2016-07-23 02:52:33 Error: [FatalErrorException] Call to a member function find() on null
+Request URL: /fileuploader/
+Stack Trace:
+#0 C:\xampp\htdocs\fileuploader\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Call to a membe...', 'C:\\xampp\\htdocs...', 26)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', 'C:\\xampp\\htdocs...', 26, Array)
+#2 C:\xampp\htdocs\fileuploader\lib\Cake\Core\App.php(970): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', 'C:\\xampp\\htdocs...', 26, Array)
+#3 C:\xampp\htdocs\fileuploader\lib\Cake\Core\App.php(943): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-07-23 02:54:24 Error: Fatal Error (1): Call to a member function find() on null in [C:\xampp\htdocs\fileuploader\app\Controller\FilesController.php, line 26]
+2016-07-23 02:54:24 Error: [FatalErrorException] Call to a member function find() on null
+Request URL: /fileuploader/
+Stack Trace:
+#0 C:\xampp\htdocs\fileuploader\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Call to a membe...', 'C:\\xampp\\htdocs...', 26)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', 'C:\\xampp\\htdocs...', 26, Array)
+#2 C:\xampp\htdocs\fileuploader\lib\Cake\Core\App.php(970): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', 'C:\\xampp\\htdocs...', 26, Array)
+#3 C:\xampp\htdocs\fileuploader\lib\Cake\Core\App.php(943): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-07-23 02:55:37 Error: Fatal Error (1): Call to a member function find() on null in [C:\xampp\htdocs\fileuploader\app\Controller\FilesController.php, line 14]
+2016-07-23 02:55:37 Error: [FatalErrorException] Call to a member function find() on null
+Request URL: /fileuploader/
+Stack Trace:
+#0 C:\xampp\htdocs\fileuploader\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Call to a membe...', 'C:\\xampp\\htdocs...', 14)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', 'C:\\xampp\\htdocs...', 14, Array)
+#2 C:\xampp\htdocs\fileuploader\lib\Cake\Core\App.php(970): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', 'C:\\xampp\\htdocs...', 14, Array)
+#3 C:\xampp\htdocs\fileuploader\lib\Cake\Core\App.php(943): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-07-23 02:56:55 Error: Fatal Error (1): Call to a member function find() on null in [C:\xampp\htdocs\fileuploader\app\Controller\FilesController.php, line 14]
+2016-07-23 02:56:55 Error: [FatalErrorException] Call to a member function find() on null
+Request URL: /fileuploader/
+Stack Trace:
+#0 C:\xampp\htdocs\fileuploader\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Call to a membe...', 'C:\\xampp\\htdocs...', 14)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', 'C:\\xampp\\htdocs...', 14, Array)
+#2 C:\xampp\htdocs\fileuploader\lib\Cake\Core\App.php(970): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', 'C:\\xampp\\htdocs...', 14, Array)
+#3 C:\xampp\htdocs\fileuploader\lib\Cake\Core\App.php(943): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-07-23 06:10:40 Error: Fatal Error (4): syntax error, unexpected end of file, expecting function (T_FUNCTION) in [C:\xampp\htdocs\fileuploader\app\Controller\FilesController.php, line 45]
+2016-07-23 06:10:40 Error: [FatalErrorException] syntax error, unexpected end of file, expecting function (T_FUNCTION)
+Request URL: /fileuploader/
+Stack Trace:
+#0 C:\xampp\htdocs\fileuploader\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'C:\\xampp\\htdocs...', 45)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'C:\\xampp\\htdocs...', 45, Array)
+#2 C:\xampp\htdocs\fileuploader\lib\Cake\Core\App.php(970): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'C:\\xampp\\htdocs...', 45, Array)
+#3 C:\xampp\htdocs\fileuploader\lib\Cake\Core\App.php(943): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-07-23 06:12:22 Error: [MissingActionException] Action FilesController::index() could not be found.
+Exception Attributes: array (
+  'controller' => 'FilesController',
+  'action' => 'index',
+)
+Request URL: /fileuploader/
+Stack Trace:
+#0 C:\xampp\htdocs\fileuploader\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\fileuploader\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(FilesController), Object(CakeRequest))
+#2 C:\xampp\htdocs\fileuploader\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2016-07-23 06:13:08 Error: [MissingViewException] View file "Files\add.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'Files\\add.ctp',
+)
+Request URL: /fileuploader/Files/add
+Stack Trace:
+#0 C:\xampp\htdocs\fileuploader\lib\Cake\View\View.php(470): View->_getViewFileName(NULL)
+#1 C:\xampp\htdocs\fileuploader\lib\Cake\Controller\Controller.php(963): View->render(NULL, NULL)
+#2 C:\xampp\htdocs\fileuploader\lib\Cake\Routing\Dispatcher.php(200): Controller->render()
+#3 C:\xampp\htdocs\fileuploader\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(FilesController), Object(CakeRequest))
+#4 C:\xampp\htdocs\fileuploader\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2016-07-23 06:18:06 Error: Fatal Error (4): syntax error, unexpected 'var' (T_VAR) in [C:\xampp\htdocs\fileuploader\app\Controller\FilesController.php, line 11]
+2016-07-23 06:18:06 Error: [FatalErrorException] syntax error, unexpected 'var' (T_VAR)
+Request URL: /fileuploader/Files/add
+Stack Trace:
+#0 C:\xampp\htdocs\fileuploader\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'C:\\xampp\\htdocs...', 11)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'C:\\xampp\\htdocs...', 11, Array)
+#2 C:\xampp\htdocs\fileuploader\lib\Cake\Core\App.php(970): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'C:\\xampp\\htdocs...', 11, Array)
+#3 C:\xampp\htdocs\fileuploader\lib\Cake\Core\App.php(943): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-07-23 06:31:14 Error: [MissingControllerException] Controller class FilesController could not be found.
+Exception Attributes: array (
+  'class' => 'FilesController',
+  'plugin' => NULL,
+)
+Request URL: /fileuploader/
+Stack Trace:
+#0 C:\xampp\htdocs\fileuploader\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-07-23 06:31:45 Error: [MissingControllerException] Controller class FilesController could not be found.
+Exception Attributes: array (
+  'class' => 'FilesController',
+  'plugin' => NULL,
+)
+Request URL: /fileuploader/
+Stack Trace:
+#0 C:\xampp\htdocs\fileuploader\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-07-23 06:31:54 Error: Fatal Error (1): Call to a member function find() on null in [C:\xampp\htdocs\fileuploader\app\Controller\FilesController.php, line 59]
+2016-07-23 06:31:54 Error: [FatalErrorException] Call to a member function find() on null
+Request URL: /fileuploader/
+Stack Trace:
+#0 C:\xampp\htdocs\fileuploader\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Call to a membe...', 'C:\\xampp\\htdocs...', 59)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', 'C:\\xampp\\htdocs...', 59, Array)
+#2 C:\xampp\htdocs\fileuploader\lib\Cake\Core\App.php(970): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', 'C:\\xampp\\htdocs...', 59, Array)
+#3 C:\xampp\htdocs\fileuploader\lib\Cake\Core\App.php(943): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-07-23 06:33:04 Error: Fatal Error (4): syntax error, unexpected 'endforeach' (T_ENDFOREACH) in [C:\xampp\htdocs\fileuploader\app\View\Files\index.ctp, line 27]
+2016-07-23 06:33:04 Error: [FatalErrorException] syntax error, unexpected 'endforeach' (T_ENDFOREACH)
+Request URL: /fileuploader/
+Stack Trace:
+#0 C:\xampp\htdocs\fileuploader\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'C:\\xampp\\htdocs...', 27)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'C:\\xampp\\htdocs...', 27, Array)
+#2 C:\xampp\htdocs\fileuploader\lib\Cake\Core\App.php(970): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'C:\\xampp\\htdocs...', 27, Array)
+#3 C:\xampp\htdocs\fileuploader\lib\Cake\Core\App.php(943): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-07-23 06:34:51 Error: Fatal Error (1): Call to a member function find() on null in [C:\xampp\htdocs\fileuploader\app\Controller\FilesController.php, line 59]
+2016-07-23 06:34:51 Error: [FatalErrorException] Call to a member function find() on null
+Request URL: /fileuploader/
+Stack Trace:
+#0 C:\xampp\htdocs\fileuploader\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Call to a membe...', 'C:\\xampp\\htdocs...', 59)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', 'C:\\xampp\\htdocs...', 59, Array)
+#2 C:\xampp\htdocs\fileuploader\lib\Cake\Core\App.php(970): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', 'C:\\xampp\\htdocs...', 59, Array)
+#3 C:\xampp\htdocs\fileuploader\lib\Cake\Core\App.php(943): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-07-23 06:36:43 Error: Fatal Error (1): Call to a member function find() on null in [C:\xampp\htdocs\fileuploader\app\Controller\FilesController.php, line 59]
+2016-07-23 06:36:43 Error: [FatalErrorException] Call to a member function find() on null
+Request URL: /fileuploader/
+Stack Trace:
+#0 C:\xampp\htdocs\fileuploader\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Call to a membe...', 'C:\\xampp\\htdocs...', 59)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', 'C:\\xampp\\htdocs...', 59, Array)
+#2 C:\xampp\htdocs\fileuploader\lib\Cake\Core\App.php(970): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', 'C:\\xampp\\htdocs...', 59, Array)
+#3 C:\xampp\htdocs\fileuploader\lib\Cake\Core\App.php(943): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-07-23 06:38:00 Error: Fatal Error (1): Call to a member function find() on null in [C:\xampp\htdocs\fileuploader\app\Controller\FilesController.php, line 59]
+2016-07-23 06:38:00 Error: [FatalErrorException] Call to a member function find() on null
+Request URL: /fileuploader/
+Stack Trace:
+#0 C:\xampp\htdocs\fileuploader\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Call to a membe...', 'C:\\xampp\\htdocs...', 59)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', 'C:\\xampp\\htdocs...', 59, Array)
+#2 C:\xampp\htdocs\fileuploader\lib\Cake\Core\App.php(970): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', 'C:\\xampp\\htdocs...', 59, Array)
+#3 C:\xampp\htdocs\fileuploader\lib\Cake\Core\App.php(943): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-07-23 06:38:44 Error: Fatal Error (4): syntax error, unexpected '$this' (T_VARIABLE), expecting function (T_FUNCTION) in [C:\xampp\htdocs\fileuploader\app\Controller\FilesController.php, line 6]
+2016-07-23 06:38:44 Error: [FatalErrorException] syntax error, unexpected '$this' (T_VARIABLE), expecting function (T_FUNCTION)
+Request URL: /fileuploader/
+Stack Trace:
+#0 C:\xampp\htdocs\fileuploader\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'C:\\xampp\\htdocs...', 6)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'C:\\xampp\\htdocs...', 6, Array)
+#2 C:\xampp\htdocs\fileuploader\lib\Cake\Core\App.php(970): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'C:\\xampp\\htdocs...', 6, Array)
+#3 C:\xampp\htdocs\fileuploader\lib\Cake\Core\App.php(943): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-07-23 06:39:05 Error: Fatal Error (1): Call to undefined method FilesController::loadComponent() in [C:\xampp\htdocs\fileuploader\app\Controller\FilesController.php, line 8]
+2016-07-23 06:39:05 Error: [FatalErrorException] Call to undefined method FilesController::loadComponent()
+Request URL: /fileuploader/
+Stack Trace:
+#0 C:\xampp\htdocs\fileuploader\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Call to undefin...', 'C:\\xampp\\htdocs...', 8)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to undefin...', 'C:\\xampp\\htdocs...', 8, Array)
+#2 C:\xampp\htdocs\fileuploader\lib\Cake\Core\App.php(970): call_user_func('ErrorHandler::h...', 1, 'Call to undefin...', 'C:\\xampp\\htdocs...', 8, Array)
+#3 C:\xampp\htdocs\fileuploader\lib\Cake\Core\App.php(943): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-07-23 06:39:16 Error: Fatal Error (1): Call to a member function find() on null in [C:\xampp\htdocs\fileuploader\app\Controller\FilesController.php, line 51]
+2016-07-23 06:39:16 Error: [FatalErrorException] Call to a member function find() on null
+Request URL: /fileuploader/
+Stack Trace:
+#0 C:\xampp\htdocs\fileuploader\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Call to a membe...', 'C:\\xampp\\htdocs...', 51)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', 'C:\\xampp\\htdocs...', 51, Array)
+#2 C:\xampp\htdocs\fileuploader\lib\Cake\Core\App.php(970): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', 'C:\\xampp\\htdocs...', 51, Array)
+#3 C:\xampp\htdocs\fileuploader\lib\Cake\Core\App.php(943): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-07-23 06:39:29 Error: Fatal Error (1): Call to a member function find() on null in [C:\xampp\htdocs\fileuploader\app\Controller\FilesController.php, line 59]
+2016-07-23 06:39:29 Error: [FatalErrorException] Call to a member function find() on null
+Request URL: /fileuploader/
+Stack Trace:
+#0 C:\xampp\htdocs\fileuploader\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Call to a membe...', 'C:\\xampp\\htdocs...', 59)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', 'C:\\xampp\\htdocs...', 59, Array)
+#2 C:\xampp\htdocs\fileuploader\lib\Cake\Core\App.php(970): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', 'C:\\xampp\\htdocs...', 59, Array)
+#3 C:\xampp\htdocs\fileuploader\lib\Cake\Core\App.php(943): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-07-25 20:38:32 Error: [MissingConnectionException] Database connection "Mysql" is missing, or could not be created.
+Exception Attributes: array (
+  'class' => 'Mysql',
+  'message' => 'SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it.
+',
+  'enabled' => true,
+)
+Request URL: /fileuploader/
+Stack Trace:
+#0 C:\xampp\htdocs\fileuploader\lib\Cake\Model\Datasource\DboSource.php(260): Mysql->connect()
+#1 C:\xampp\htdocs\fileuploader\lib\Cake\Model\ConnectionManager.php(105): DboSource->__construct(Array)
+#2 C:\xampp\htdocs\fileuploader\lib\Cake\Model\Model.php(3626): ConnectionManager::getDataSource('default')
+#3 C:\xampp\htdocs\fileuploader\lib\Cake\Model\Model.php(1155): Model->setDataSource('default')
+#4 C:\xampp\htdocs\fileuploader\lib\Cake\Model\Model.php(3653): Model->setSource('files')
+#5 C:\xampp\htdocs\fileuploader\lib\Cake\Model\Model.php(1387): Model->getDataSource()
+#6 C:\xampp\htdocs\fileuploader\lib\Cake\View\Helper\FormHelper.php(215): Model->schema()
+#7 C:\xampp\htdocs\fileuploader\lib\Cake\View\Helper\FormHelper.php(480): FormHelper->_introspectModel('File', 'fields')
+#8 C:\xampp\htdocs\fileuploader\app\View\Files\index.ctp(5): FormHelper->create('', Array)
+#9 C:\xampp\htdocs\fileuploader\lib\Cake\View\View.php(971): include('C:\\xampp\\htdocs...')
+#10 C:\xampp\htdocs\fileuploader\lib\Cake\View\View.php(933): View->_evaluate('C:\\xampp\\htdocs...', Array)
+#11 C:\xampp\htdocs\fileuploader\lib\Cake\View\View.php(473): View->_render('C:\\xampp\\htdocs...')
+#12 C:\xampp\htdocs\fileuploader\lib\Cake\Controller\Controller.php(963): View->render(NULL, NULL)
+#13 C:\xampp\htdocs\fileuploader\lib\Cake\Routing\Dispatcher.php(200): Controller->render()
+#14 C:\xampp\htdocs\fileuploader\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(FilesController), Object(CakeRequest))
+#15 C:\xampp\htdocs\fileuploader\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#16 {main}
+2016-07-25 20:38:48 Error: [MissingConnectionException] Database connection "Mysql" is missing, or could not be created.
+Exception Attributes: array (
+  'class' => 'Mysql',
+  'message' => 'SQLSTATE[HY000] [1045] Access denied for user \'root\'@\'localhost\' (using password: YES)',
+  'enabled' => true,
+)
+Request URL: /fileuploader/
+Stack Trace:
+#0 C:\xampp\htdocs\fileuploader\lib\Cake\Model\Datasource\DboSource.php(260): Mysql->connect()
+#1 C:\xampp\htdocs\fileuploader\lib\Cake\Model\ConnectionManager.php(105): DboSource->__construct(Array)
+#2 C:\xampp\htdocs\fileuploader\lib\Cake\Model\Model.php(3626): ConnectionManager::getDataSource('default')
+#3 C:\xampp\htdocs\fileuploader\lib\Cake\Model\Model.php(1155): Model->setDataSource('default')
+#4 C:\xampp\htdocs\fileuploader\lib\Cake\Model\Model.php(3653): Model->setSource('files')
+#5 C:\xampp\htdocs\fileuploader\lib\Cake\Model\Model.php(1387): Model->getDataSource()
+#6 C:\xampp\htdocs\fileuploader\lib\Cake\View\Helper\FormHelper.php(215): Model->schema()
+#7 C:\xampp\htdocs\fileuploader\lib\Cake\View\Helper\FormHelper.php(480): FormHelper->_introspectModel('File', 'fields')
+#8 C:\xampp\htdocs\fileuploader\app\View\Files\index.ctp(5): FormHelper->create('', Array)
+#9 C:\xampp\htdocs\fileuploader\lib\Cake\View\View.php(971): include('C:\\xampp\\htdocs...')
+#10 C:\xampp\htdocs\fileuploader\lib\Cake\View\View.php(933): View->_evaluate('C:\\xampp\\htdocs...', Array)
+#11 C:\xampp\htdocs\fileuploader\lib\Cake\View\View.php(473): View->_render('C:\\xampp\\htdocs...')
+#12 C:\xampp\htdocs\fileuploader\lib\Cake\Controller\Controller.php(963): View->render(NULL, NULL)
+#13 C:\xampp\htdocs\fileuploader\lib\Cake\Routing\Dispatcher.php(200): Controller->render()
+#14 C:\xampp\htdocs\fileuploader\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(FilesController), Object(CakeRequest))
+#15 C:\xampp\htdocs\fileuploader\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#16 {main}
+2016-07-25 20:42:33 Error: [MissingConnectionException] Database connection "Mysql" is missing, or could not be created.
+Exception Attributes: array (
+  'class' => 'Mysql',
+  'message' => 'SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it.
+',
+  'enabled' => true,
+)
+Request URL: /fileuploader/
+Stack Trace:
+#0 C:\xampp\htdocs\fileuploader\lib\Cake\Model\Datasource\DboSource.php(260): Mysql->connect()
+#1 C:\xampp\htdocs\fileuploader\lib\Cake\Model\ConnectionManager.php(105): DboSource->__construct(Array)
+#2 C:\xampp\htdocs\fileuploader\lib\Cake\Model\Model.php(3626): ConnectionManager::getDataSource('default')
+#3 C:\xampp\htdocs\fileuploader\lib\Cake\Model\Model.php(1155): Model->setDataSource('default')
+#4 C:\xampp\htdocs\fileuploader\lib\Cake\Model\Model.php(3653): Model->setSource('files')
+#5 C:\xampp\htdocs\fileuploader\lib\Cake\Model\Model.php(1387): Model->getDataSource()
+#6 C:\xampp\htdocs\fileuploader\lib\Cake\View\Helper\FormHelper.php(215): Model->schema()
+#7 C:\xampp\htdocs\fileuploader\lib\Cake\View\Helper\FormHelper.php(480): FormHelper->_introspectModel('File', 'fields')
+#8 C:\xampp\htdocs\fileuploader\app\View\Files\index.ctp(5): FormHelper->create('', Array)
+#9 C:\xampp\htdocs\fileuploader\lib\Cake\View\View.php(971): include('C:\\xampp\\htdocs...')
+#10 C:\xampp\htdocs\fileuploader\lib\Cake\View\View.php(933): View->_evaluate('C:\\xampp\\htdocs...', Array)
+#11 C:\xampp\htdocs\fileuploader\lib\Cake\View\View.php(473): View->_render('C:\\xampp\\htdocs...')
+#12 C:\xampp\htdocs\fileuploader\lib\Cake\Controller\Controller.php(963): View->render(NULL, NULL)
+#13 C:\xampp\htdocs\fileuploader\lib\Cake\Routing\Dispatcher.php(200): Controller->render()
+#14 C:\xampp\htdocs\fileuploader\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(FilesController), Object(CakeRequest))
+#15 C:\xampp\htdocs\fileuploader\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#16 {main}
+2016-07-25 20:43:47 Error: [MissingConnectionException] Database connection "Mysql" is missing, or could not be created.
+Exception Attributes: array (
+  'class' => 'Mysql',
+  'message' => 'SQLSTATE[HY000] [1045] Access denied for user \'root\'@\'localhost\' (using password: YES)',
+  'enabled' => true,
+)
+Request URL: /fileuploader/
+Stack Trace:
+#0 C:\xampp\htdocs\fileuploader\lib\Cake\Model\Datasource\DboSource.php(260): Mysql->connect()
+#1 C:\xampp\htdocs\fileuploader\lib\Cake\Model\ConnectionManager.php(105): DboSource->__construct(Array)
+#2 C:\xampp\htdocs\fileuploader\lib\Cake\Model\Model.php(3626): ConnectionManager::getDataSource('default')
+#3 C:\xampp\htdocs\fileuploader\lib\Cake\Model\Model.php(1155): Model->setDataSource('default')
+#4 C:\xampp\htdocs\fileuploader\lib\Cake\Model\Model.php(3653): Model->setSource('files')
+#5 C:\xampp\htdocs\fileuploader\lib\Cake\Model\Model.php(1387): Model->getDataSource()
+#6 C:\xampp\htdocs\fileuploader\lib\Cake\View\Helper\FormHelper.php(215): Model->schema()
+#7 C:\xampp\htdocs\fileuploader\lib\Cake\View\Helper\FormHelper.php(480): FormHelper->_introspectModel('File', 'fields')
+#8 C:\xampp\htdocs\fileuploader\app\View\Files\index.ctp(5): FormHelper->create('', Array)
+#9 C:\xampp\htdocs\fileuploader\lib\Cake\View\View.php(971): include('C:\\xampp\\htdocs...')
+#10 C:\xampp\htdocs\fileuploader\lib\Cake\View\View.php(933): View->_evaluate('C:\\xampp\\htdocs...', Array)
+#11 C:\xampp\htdocs\fileuploader\lib\Cake\View\View.php(473): View->_render('C:\\xampp\\htdocs...')
+#12 C:\xampp\htdocs\fileuploader\lib\Cake\Controller\Controller.php(963): View->render(NULL, NULL)
+#13 C:\xampp\htdocs\fileuploader\lib\Cake\Routing\Dispatcher.php(200): Controller->render()
+#14 C:\xampp\htdocs\fileuploader\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(FilesController), Object(CakeRequest))
+#15 C:\xampp\htdocs\fileuploader\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#16 {main}
+2016-07-25 20:45:47 Error: [MissingConnectionException] Database connection "Mysql" is missing, or could not be created.
+Exception Attributes: array (
+  'class' => 'Mysql',
+  'message' => 'SQLSTATE[HY000] [1049] Unknown database \'fileuploader_db\'',
+  'enabled' => true,
+)
+Request URL: /fileuploader/
+Stack Trace:
+#0 C:\xampp\htdocs\fileuploader\lib\Cake\Model\Datasource\DboSource.php(260): Mysql->connect()
+#1 C:\xampp\htdocs\fileuploader\lib\Cake\Model\ConnectionManager.php(105): DboSource->__construct(Array)
+#2 C:\xampp\htdocs\fileuploader\lib\Cake\Model\Model.php(3626): ConnectionManager::getDataSource('default')
+#3 C:\xampp\htdocs\fileuploader\lib\Cake\Model\Model.php(1155): Model->setDataSource('default')
+#4 C:\xampp\htdocs\fileuploader\lib\Cake\Model\Model.php(3653): Model->setSource('files')
+#5 C:\xampp\htdocs\fileuploader\lib\Cake\Model\Model.php(1387): Model->getDataSource()
+#6 C:\xampp\htdocs\fileuploader\lib\Cake\View\Helper\FormHelper.php(215): Model->schema()
+#7 C:\xampp\htdocs\fileuploader\lib\Cake\View\Helper\FormHelper.php(480): FormHelper->_introspectModel('File', 'fields')
+#8 C:\xampp\htdocs\fileuploader\app\View\Files\index.ctp(5): FormHelper->create('', Array)
+#9 C:\xampp\htdocs\fileuploader\lib\Cake\View\View.php(971): include('C:\\xampp\\htdocs...')
+#10 C:\xampp\htdocs\fileuploader\lib\Cake\View\View.php(933): View->_evaluate('C:\\xampp\\htdocs...', Array)
+#11 C:\xampp\htdocs\fileuploader\lib\Cake\View\View.php(473): View->_render('C:\\xampp\\htdocs...')
+#12 C:\xampp\htdocs\fileuploader\lib\Cake\Controller\Controller.php(963): View->render(NULL, NULL)
+#13 C:\xampp\htdocs\fileuploader\lib\Cake\Routing\Dispatcher.php(200): Controller->render()
+#14 C:\xampp\htdocs\fileuploader\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(FilesController), Object(CakeRequest))
+#15 C:\xampp\htdocs\fileuploader\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#16 {main}
+2016-07-25 20:47:13 Error: Fatal Error (1): Call to a member function count() on array in [C:\xampp\htdocs\fileuploader\app\Controller\FilesController.php, line 62]
+2016-07-25 20:47:13 Error: [FatalErrorException] Call to a member function count() on array
+Request URL: /fileuploader/
+Stack Trace:
+#0 C:\xampp\htdocs\fileuploader\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Call to a membe...', 'C:\\xampp\\htdocs...', 62)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', 'C:\\xampp\\htdocs...', 62, Array)
+#2 C:\xampp\htdocs\fileuploader\lib\Cake\Core\App.php(970): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', 'C:\\xampp\\htdocs...', 62, Array)
+#3 C:\xampp\htdocs\fileuploader\lib\Cake\Core\App.php(943): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-07-25 20:48:09 Error: Fatal Error (1): Call to a member function find() on null in [C:\xampp\htdocs\fileuploader\app\Controller\FilesController.php, line 61]
+2016-07-25 20:48:09 Error: [FatalErrorException] Call to a member function find() on null
+Request URL: /fileuploader/
+Stack Trace:
+#0 C:\xampp\htdocs\fileuploader\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Call to a membe...', 'C:\\xampp\\htdocs...', 61)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', 'C:\\xampp\\htdocs...', 61, Array)
+#2 C:\xampp\htdocs\fileuploader\lib\Cake\Core\App.php(970): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', 'C:\\xampp\\htdocs...', 61, Array)
+#3 C:\xampp\htdocs\fileuploader\lib\Cake\Core\App.php(943): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-07-25 20:48:30 Error: Fatal Error (64): Cannot redeclare class File in [C:\xampp\htdocs\fileuploader\app\Model\Files.php, line 7]
+2016-07-25 20:48:30 Error: [FatalErrorException] Cannot redeclare class File
+Request URL: /fileuploader/
+Stack Trace:
+#0 C:\xampp\htdocs\fileuploader\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(64, 'Cannot redeclar...', 'C:\\xampp\\htdocs...', 7)
+#1 [internal function]: ErrorHandler::handleError(64, 'Cannot redeclar...', 'C:\\xampp\\htdocs...', 7, Array)
+#2 C:\xampp\htdocs\fileuploader\lib\Cake\Core\App.php(970): call_user_func('ErrorHandler::h...', 64, 'Cannot redeclar...', 'C:\\xampp\\htdocs...', 7, Array)
+#3 C:\xampp\htdocs\fileuploader\lib\Cake\Core\App.php(943): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-07-25 20:48:51 Error: Fatal Error (1): Call to a member function find() on null in [C:\xampp\htdocs\fileuploader\app\Controller\FilesController.php, line 59]
+2016-07-25 20:48:51 Error: [FatalErrorException] Call to a member function find() on null
+Request URL: /fileuploader/
+Stack Trace:
+#0 C:\xampp\htdocs\fileuploader\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Call to a membe...', 'C:\\xampp\\htdocs...', 59)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', 'C:\\xampp\\htdocs...', 59, Array)
+#2 C:\xampp\htdocs\fileuploader\lib\Cake\Core\App.php(970): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', 'C:\\xampp\\htdocs...', 59, Array)
+#3 C:\xampp\htdocs\fileuploader\lib\Cake\Core\App.php(943): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-07-25 20:49:03 Error: Fatal Error (1): Call to a member function find() on null in [C:\xampp\htdocs\fileuploader\app\Controller\FilesController.php, line 59]
+2016-07-25 20:49:03 Error: [FatalErrorException] Call to a member function find() on null
+Request URL: /fileuploader/
+Stack Trace:
+#0 C:\xampp\htdocs\fileuploader\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Call to a membe...', 'C:\\xampp\\htdocs...', 59)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', 'C:\\xampp\\htdocs...', 59, Array)
+#2 C:\xampp\htdocs\fileuploader\lib\Cake\Core\App.php(970): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', 'C:\\xampp\\htdocs...', 59, Array)
+#3 C:\xampp\htdocs\fileuploader\lib\Cake\Core\App.php(943): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-07-25 20:49:12 Error: Fatal Error (1): Call to a member function count() on array in [C:\xampp\htdocs\fileuploader\app\Controller\FilesController.php, line 63]
+2016-07-25 20:49:12 Error: [FatalErrorException] Call to a member function count() on array
+Request URL: /fileuploader/
+Stack Trace:
+#0 C:\xampp\htdocs\fileuploader\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Call to a membe...', 'C:\\xampp\\htdocs...', 63)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', 'C:\\xampp\\htdocs...', 63, Array)
+#2 C:\xampp\htdocs\fileuploader\lib\Cake\Core\App.php(970): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', 'C:\\xampp\\htdocs...', 63, Array)
+#3 C:\xampp\htdocs\fileuploader\lib\Cake\Core\App.php(943): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-07-25 20:53:12 Error: Fatal Error (1): Call to a member function count() on array in [C:\xampp\htdocs\fileuploader\app\Controller\FilesController.php, line 63]
+2016-07-25 20:53:12 Error: [FatalErrorException] Call to a member function count() on array
+Request URL: /fileuploader/
+Stack Trace:
+#0 C:\xampp\htdocs\fileuploader\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Call to a membe...', 'C:\\xampp\\htdocs...', 63)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', 'C:\\xampp\\htdocs...', 63, Array)
+#2 C:\xampp\htdocs\fileuploader\lib\Cake\Core\App.php(970): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', 'C:\\xampp\\htdocs...', 63, Array)
+#3 C:\xampp\htdocs\fileuploader\lib\Cake\Core\App.php(943): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-07-25 20:53:47 Error: Fatal Error (1): Call to a member function count() on array in [C:\xampp\htdocs\fileuploader\app\Controller\FilesController.php, line 63]
+2016-07-25 20:53:47 Error: [FatalErrorException] Call to a member function count() on array
+Request URL: /fileuploader/
+Stack Trace:
+#0 C:\xampp\htdocs\fileuploader\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Call to a membe...', 'C:\\xampp\\htdocs...', 63)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', 'C:\\xampp\\htdocs...', 63, Array)
+#2 C:\xampp\htdocs\fileuploader\lib\Cake\Core\App.php(970): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', 'C:\\xampp\\htdocs...', 63, Array)
+#3 C:\xampp\htdocs\fileuploader\lib\Cake\Core\App.php(943): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-07-25 20:54:06 Error: Fatal Error (1): Call to a member function count() on array in [C:\xampp\htdocs\fileuploader\app\Controller\FilesController.php, line 63]
+2016-07-25 20:54:06 Error: [FatalErrorException] Call to a member function count() on array
+Request URL: /fileuploader/
+Stack Trace:
+#0 C:\xampp\htdocs\fileuploader\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Call to a membe...', 'C:\\xampp\\htdocs...', 63)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', 'C:\\xampp\\htdocs...', 63, Array)
+#2 C:\xampp\htdocs\fileuploader\lib\Cake\Core\App.php(970): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', 'C:\\xampp\\htdocs...', 63, Array)
+#3 C:\xampp\htdocs\fileuploader\lib\Cake\Core\App.php(943): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-07-25 21:18:28 Error: [MissingViewException] View file "Files\add.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'Files\\add.ctp',
+)
+Request URL: /fileuploader/files/add
+Stack Trace:
+#0 C:\xampp\htdocs\fileuploader\lib\Cake\View\View.php(470): View->_getViewFileName(NULL)
+#1 C:\xampp\htdocs\fileuploader\lib\Cake\Controller\Controller.php(963): View->render(NULL, NULL)
+#2 C:\xampp\htdocs\fileuploader\lib\Cake\Routing\Dispatcher.php(200): Controller->render()
+#3 C:\xampp\htdocs\fileuploader\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(FilesController), Object(CakeRequest))
+#4 C:\xampp\htdocs\fileuploader\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2016-07-25 21:20:07 Error: [MissingViewException] View file "Files\add.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'Files\\add.ctp',
+)
+Request URL: /fileuploader/files/add
+Stack Trace:
+#0 C:\xampp\htdocs\fileuploader\lib\Cake\View\View.php(470): View->_getViewFileName(NULL)
+#1 C:\xampp\htdocs\fileuploader\lib\Cake\Controller\Controller.php(963): View->render(NULL, NULL)
+#2 C:\xampp\htdocs\fileuploader\lib\Cake\Routing\Dispatcher.php(200): Controller->render()
+#3 C:\xampp\htdocs\fileuploader\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(FilesController), Object(CakeRequest))
+#4 C:\xampp\htdocs\fileuploader\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2016-07-25 21:20:19 Error: [MissingViewException] View file "Files\add.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'Files\\add.ctp',
+)
+Request URL: /fileuploader/files/add
+Stack Trace:
+#0 C:\xampp\htdocs\fileuploader\lib\Cake\View\View.php(470): View->_getViewFileName(NULL)
+#1 C:\xampp\htdocs\fileuploader\lib\Cake\Controller\Controller.php(963): View->render(NULL, NULL)
+#2 C:\xampp\htdocs\fileuploader\lib\Cake\Routing\Dispatcher.php(200): Controller->render()
+#3 C:\xampp\htdocs\fileuploader\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(FilesController), Object(CakeRequest))
+#4 C:\xampp\htdocs\fileuploader\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2016-07-25 21:24:58 Error: [MissingViewException] View file "Files\add.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'Files\\add.ctp',
+)
+Request URL: /fileuploader/files/add
+Stack Trace:
+#0 C:\xampp\htdocs\fileuploader\lib\Cake\View\View.php(470): View->_getViewFileName(NULL)
+#1 C:\xampp\htdocs\fileuploader\lib\Cake\Controller\Controller.php(963): View->render(NULL, NULL)
+#2 C:\xampp\htdocs\fileuploader\lib\Cake\Routing\Dispatcher.php(200): Controller->render()
+#3 C:\xampp\htdocs\fileuploader\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(FilesController), Object(CakeRequest))
+#4 C:\xampp\htdocs\fileuploader\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2016-07-25 21:25:40 Error: [MissingActionException] Action FilesController::add() could not be found.
+Exception Attributes: array (
+  'controller' => 'FilesController',
+  'action' => 'add',
+)
+Request URL: /fileuploader/files/add
+Stack Trace:
+#0 C:\xampp\htdocs\fileuploader\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\fileuploader\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(FilesController), Object(CakeRequest))
+#2 C:\xampp\htdocs\fileuploader\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2016-07-25 21:26:00 Error: Fatal Error (1): Call to a member function count() on array in [C:\xampp\htdocs\fileuploader\app\Controller\FilesController.php, line 63]
+2016-07-25 21:26:00 Error: [FatalErrorException] Call to a member function count() on array
+Request URL: /fileuploader/
+Stack Trace:
+#0 C:\xampp\htdocs\fileuploader\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Call to a membe...', 'C:\\xampp\\htdocs...', 63)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', 'C:\\xampp\\htdocs...', 63, Array)
+#2 C:\xampp\htdocs\fileuploader\lib\Cake\Core\App.php(970): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', 'C:\\xampp\\htdocs...', 63, Array)
+#3 C:\xampp\htdocs\fileuploader\lib\Cake\Core\App.php(943): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-07-25 21:38:20 Error: [MissingActionException] Action FilesController::add() could not be found.
+Exception Attributes: array (
+  'controller' => 'FilesController',
+  'action' => 'add',
+)
+Request URL: /fileuploader/files/add
+Stack Trace:
+#0 C:\xampp\htdocs\fileuploader\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\fileuploader\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(FilesController), Object(CakeRequest))
+#2 C:\xampp\htdocs\fileuploader\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2016-07-25 21:46:07 Error: Fatal Error (1): Call to undefined method FilesController::load() in [C:\xampp\htdocs\fileuploader\app\Controller\FilesController.php, line 22]
+2016-07-25 21:46:07 Error: [FatalErrorException] Call to undefined method FilesController::load()
+Request URL: /fileuploader/
+Stack Trace:
+#0 C:\xampp\htdocs\fileuploader\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Call to undefin...', 'C:\\xampp\\htdocs...', 22)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to undefin...', 'C:\\xampp\\htdocs...', 22, Array)
+#2 C:\xampp\htdocs\fileuploader\lib\Cake\Core\App.php(970): call_user_func('ErrorHandler::h...', 1, 'Call to undefin...', 'C:\\xampp\\htdocs...', 22, Array)
+#3 C:\xampp\htdocs\fileuploader\lib\Cake\Core\App.php(943): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-07-25 21:46:39 Error: Fatal Error (1): Call to a member function find() on null in [C:\xampp\htdocs\fileuploader\app\Controller\FilesController.php, line 62]
+2016-07-25 21:46:39 Error: [FatalErrorException] Call to a member function find() on null
+Request URL: /fileuploader/
+Stack Trace:
+#0 C:\xampp\htdocs\fileuploader\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Call to a membe...', 'C:\\xampp\\htdocs...', 62)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', 'C:\\xampp\\htdocs...', 62, Array)
+#2 C:\xampp\htdocs\fileuploader\lib\Cake\Core\App.php(970): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', 'C:\\xampp\\htdocs...', 62, Array)
+#3 C:\xampp\htdocs\fileuploader\lib\Cake\Core\App.php(943): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-07-25 21:50:26 Error: Fatal Error (1): Call to undefined function var_dumb() in [C:\xampp\htdocs\fileuploader\app\Controller\FilesController.php, line 63]
+2016-07-25 21:50:26 Error: [FatalErrorException] Call to undefined function var_dumb()
+Request URL: /fileuploader/
+Stack Trace:
+#0 C:\xampp\htdocs\fileuploader\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Call to undefin...', 'C:\\xampp\\htdocs...', 63)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to undefin...', 'C:\\xampp\\htdocs...', 63, Array)
+#2 C:\xampp\htdocs\fileuploader\lib\Cake\Core\App.php(970): call_user_func('ErrorHandler::h...', 1, 'Call to undefin...', 'C:\\xampp\\htdocs...', 63, Array)
+#3 C:\xampp\htdocs\fileuploader\lib\Cake\Core\App.php(943): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-07-25 21:54:38 Error: Fatal Error (1): Call to a member function find() on null in [C:\xampp\htdocs\fileuploader\app\Controller\FilesController.php, line 57]
+2016-07-25 21:54:38 Error: [FatalErrorException] Call to a member function find() on null
+Request URL: /fileuploader/
+Stack Trace:
+#0 C:\xampp\htdocs\fileuploader\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Call to a membe...', 'C:\\xampp\\htdocs...', 57)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', 'C:\\xampp\\htdocs...', 57, Array)
+#2 C:\xampp\htdocs\fileuploader\lib\Cake\Core\App.php(970): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', 'C:\\xampp\\htdocs...', 57, Array)
+#3 C:\xampp\htdocs\fileuploader\lib\Cake\Core\App.php(943): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-07-25 21:54:47 Error: Fatal Error (1): Call to a member function find() on null in [C:\xampp\htdocs\fileuploader\app\Controller\FilesController.php, line 59]
+2016-07-25 21:54:47 Error: [FatalErrorException] Call to a member function find() on null
+Request URL: /fileuploader/
+Stack Trace:
+#0 C:\xampp\htdocs\fileuploader\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Call to a membe...', 'C:\\xampp\\htdocs...', 59)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', 'C:\\xampp\\htdocs...', 59, Array)
+#2 C:\xampp\htdocs\fileuploader\lib\Cake\Core\App.php(970): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', 'C:\\xampp\\htdocs...', 59, Array)
+#3 C:\xampp\htdocs\fileuploader\lib\Cake\Core\App.php(943): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-07-25 22:13:07 Error: [MissingActionException] Action FilesController::add() could not be found.
+Exception Attributes: array (
+  'controller' => 'FilesController',
+  'action' => 'add',
+)
+Request URL: /fileuploader/files/add
+Stack Trace:
+#0 C:\xampp\htdocs\fileuploader\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\fileuploader\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(FilesController), Object(CakeRequest))
+#2 C:\xampp\htdocs\fileuploader\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2016-07-25 22:34:59 Error: [MissingViewException] View file "Pages\index.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'Pages\\index.ctp',
+)
+Request URL: /fileuploader/pages/index
+Stack Trace:
+#0 C:\xampp\htdocs\fileuploader\lib\Cake\View\View.php(470): View->_getViewFileName('index')
+#1 C:\xampp\htdocs\fileuploader\lib\Cake\Controller\Controller.php(963): View->render('index', NULL)
+#2 C:\xampp\htdocs\fileuploader\app\Controller\PagesController.php(68): Controller->render('index')
+#3 [internal function]: PagesController->display('index')
+#4 C:\xampp\htdocs\fileuploader\lib\Cake\Controller\Controller.php(491): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#5 C:\xampp\htdocs\fileuploader\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#6 C:\xampp\htdocs\fileuploader\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest))
+#7 C:\xampp\htdocs\fileuploader\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#8 {main}
+2016-07-25 23:37:57 Error: Fatal Error (4): syntax error, unexpected '<' in [C:\xampp\htdocs\fileuploader\app\View\Files\index.ctp, line 10]
+2016-07-25 23:37:57 Error: [FatalErrorException] syntax error, unexpected '<'
+Request URL: /fileuploader/
+Stack Trace:
+#0 C:\xampp\htdocs\fileuploader\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'C:\\xampp\\htdocs...', 10)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'C:\\xampp\\htdocs...', 10, Array)
+#2 C:\xampp\htdocs\fileuploader\lib\Cake\Core\App.php(970): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'C:\\xampp\\htdocs...', 10, Array)
+#3 C:\xampp\htdocs\fileuploader\lib\Cake\Core\App.php(943): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-07-25 23:42:52 Error: [PDOException] SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'newEntity' at line 1
+Request URL: /fileuploader/
+Stack Trace:
+#0 C:\xampp\htdocs\fileuploader\lib\Cake\Model\Datasource\DboSource.php(461): PDOStatement->execute(Array)
+#1 C:\xampp\htdocs\fileuploader\lib\Cake\Model\Datasource\DboSource.php(427): DboSource->_execute('newEntity', Array)
+#2 C:\xampp\htdocs\fileuploader\lib\Cake\Model\Datasource\DboSource.php(664): DboSource->execute('newEntity', Array, Array)
+#3 C:\xampp\htdocs\fileuploader\lib\Cake\Model\Datasource\DboSource.php(607): DboSource->fetchAll('newEntity', Array, Array)
+#4 C:\xampp\htdocs\fileuploader\lib\Cake\Model\Model.php(827): DboSource->query('newEntity', Array, Object(File))
+#5 C:\xampp\htdocs\fileuploader\app\Controller\FilesController.php(38): Model->__call('newEntity', Array)
+#6 C:\xampp\htdocs\fileuploader\app\Controller\FilesController.php(38): File->newEntity()
+#7 [internal function]: FilesController->index('home')
+#8 C:\xampp\htdocs\fileuploader\lib\Cake\Controller\Controller.php(491): ReflectionMethod->invokeArgs(Object(FilesController), Array)
+#9 C:\xampp\htdocs\fileuploader\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#10 C:\xampp\htdocs\fileuploader\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(FilesController), Object(CakeRequest))
+#11 C:\xampp\htdocs\fileuploader\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#12 {main}
+2016-07-25 23:43:05 Error: [PDOException] SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'newEntity' at line 1
+Request URL: /fileuploader/
+Stack Trace:
+#0 C:\xampp\htdocs\fileuploader\lib\Cake\Model\Datasource\DboSource.php(461): PDOStatement->execute(Array)
+#1 C:\xampp\htdocs\fileuploader\lib\Cake\Model\Datasource\DboSource.php(427): DboSource->_execute('newEntity', Array)
+#2 C:\xampp\htdocs\fileuploader\lib\Cake\Model\Datasource\DboSource.php(664): DboSource->execute('newEntity', Array, Array)
+#3 C:\xampp\htdocs\fileuploader\lib\Cake\Model\Datasource\DboSource.php(607): DboSource->fetchAll('newEntity', Array, Array)
+#4 C:\xampp\htdocs\fileuploader\lib\Cake\Model\Model.php(827): DboSource->query('newEntity', Array, Object(File))
+#5 C:\xampp\htdocs\fileuploader\app\Controller\FilesController.php(38): Model->__call('newEntity', Array)
+#6 C:\xampp\htdocs\fileuploader\app\Controller\FilesController.php(38): File->newEntity()
+#7 [internal function]: FilesController->index('home')
+#8 C:\xampp\htdocs\fileuploader\lib\Cake\Controller\Controller.php(491): ReflectionMethod->invokeArgs(Object(FilesController), Array)
+#9 C:\xampp\htdocs\fileuploader\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#10 C:\xampp\htdocs\fileuploader\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(FilesController), Object(CakeRequest))
+#11 C:\xampp\htdocs\fileuploader\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#12 {main}
+2016-07-25 23:44:12 Error: [PDOException] SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'newEntity' at line 1
+Request URL: /fileuploader/
+Stack Trace:
+#0 C:\xampp\htdocs\fileuploader\lib\Cake\Model\Datasource\DboSource.php(461): PDOStatement->execute(Array)
+#1 C:\xampp\htdocs\fileuploader\lib\Cake\Model\Datasource\DboSource.php(427): DboSource->_execute('newEntity', Array)
+#2 C:\xampp\htdocs\fileuploader\lib\Cake\Model\Datasource\DboSource.php(664): DboSource->execute('newEntity', Array, Array)
+#3 C:\xampp\htdocs\fileuploader\lib\Cake\Model\Datasource\DboSource.php(607): DboSource->fetchAll('newEntity', Array, Array)
+#4 C:\xampp\htdocs\fileuploader\lib\Cake\Model\Model.php(827): DboSource->query('newEntity', Array, Object(File))
+#5 C:\xampp\htdocs\fileuploader\app\Controller\FilesController.php(38): Model->__call('newEntity', Array)
+#6 C:\xampp\htdocs\fileuploader\app\Controller\FilesController.php(38): File->newEntity()
+#7 [internal function]: FilesController->index('home')
+#8 C:\xampp\htdocs\fileuploader\lib\Cake\Controller\Controller.php(491): ReflectionMethod->invokeArgs(Object(FilesController), Array)
+#9 C:\xampp\htdocs\fileuploader\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#10 C:\xampp\htdocs\fileuploader\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(FilesController), Object(CakeRequest))
+#11 C:\xampp\htdocs\fileuploader\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#12 {main}
+2016-07-25 23:48:14 Error: [PDOException] SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'newEntity' at line 1
+Request URL: /fileuploader/
+Stack Trace:
+#0 C:\xampp\htdocs\fileuploader\lib\Cake\Model\Datasource\DboSource.php(461): PDOStatement->execute(Array)
+#1 C:\xampp\htdocs\fileuploader\lib\Cake\Model\Datasource\DboSource.php(427): DboSource->_execute('newEntity', Array)
+#2 C:\xampp\htdocs\fileuploader\lib\Cake\Model\Datasource\DboSource.php(664): DboSource->execute('newEntity', Array, Array)
+#3 C:\xampp\htdocs\fileuploader\lib\Cake\Model\Datasource\DboSource.php(607): DboSource->fetchAll('newEntity', Array, Array)
+#4 C:\xampp\htdocs\fileuploader\lib\Cake\Model\Model.php(827): DboSource->query('newEntity', Array, Object(File))
+#5 C:\xampp\htdocs\fileuploader\app\Controller\FilesController.php(38): Model->__call('newEntity', Array)
+#6 C:\xampp\htdocs\fileuploader\app\Controller\FilesController.php(38): File->newEntity()
+#7 [internal function]: FilesController->index('home')
+#8 C:\xampp\htdocs\fileuploader\lib\Cake\Controller\Controller.php(491): ReflectionMethod->invokeArgs(Object(FilesController), Array)
+#9 C:\xampp\htdocs\fileuploader\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#10 C:\xampp\htdocs\fileuploader\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(FilesController), Object(CakeRequest))
+#11 C:\xampp\htdocs\fileuploader\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#12 {main}
+2016-07-25 23:51:36 Error: [CakeException] Method save does not exist
+Request URL: /fileuploader/
+Stack Trace:
+#0 C:\xampp\htdocs\fileuploader\app\Controller\FilesController.php(38): CakeRequest->__call('save', Array)
+#1 C:\xampp\htdocs\fileuploader\app\Controller\FilesController.php(38): CakeRequest->save(Array)
+#2 [internal function]: FilesController->index('home')
+#3 C:\xampp\htdocs\fileuploader\lib\Cake\Controller\Controller.php(491): ReflectionMethod->invokeArgs(Object(FilesController), Array)
+#4 C:\xampp\htdocs\fileuploader\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#5 C:\xampp\htdocs\fileuploader\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(FilesController), Object(CakeRequest))
+#6 C:\xampp\htdocs\fileuploader\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#7 {main}
+2016-07-25 23:51:42 Error: [CakeException] Method save does not exist
+Request URL: /fileuploader/
+Stack Trace:
+#0 C:\xampp\htdocs\fileuploader\app\Controller\FilesController.php(38): CakeRequest->__call('save', Array)
+#1 C:\xampp\htdocs\fileuploader\app\Controller\FilesController.php(38): CakeRequest->save(Array)
+#2 [internal function]: FilesController->index('home')
+#3 C:\xampp\htdocs\fileuploader\lib\Cake\Controller\Controller.php(491): ReflectionMethod->invokeArgs(Object(FilesController), Array)
+#4 C:\xampp\htdocs\fileuploader\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#5 C:\xampp\htdocs\fileuploader\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(FilesController), Object(CakeRequest))
+#6 C:\xampp\htdocs\fileuploader\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#7 {main}
+2016-07-25 23:54:39 Error: [CakeException] Method getClientIp does not exist
+Request URL: /fileuploader/
+Stack Trace:
+#0 C:\xampp\htdocs\fileuploader\app\Controller\FilesController.php(42): CakeRequest->__call('getClientIp', Array)
+#1 C:\xampp\htdocs\fileuploader\app\Controller\FilesController.php(42): CakeRequest->getClientIp()
+#2 [internal function]: FilesController->index('home')
+#3 C:\xampp\htdocs\fileuploader\lib\Cake\Controller\Controller.php(491): ReflectionMethod->invokeArgs(Object(FilesController), Array)
+#4 C:\xampp\htdocs\fileuploader\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#5 C:\xampp\htdocs\fileuploader\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(FilesController), Object(CakeRequest))
+#6 C:\xampp\htdocs\fileuploader\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#7 {main}
+2016-07-25 23:57:14 Error: Fatal Error (1): Maximum execution time of 30 seconds exceeded in [C:\xampp\htdocs\fileuploader\lib\Cake\Cache\Engine\FileEngine.php, line 354]
+2016-07-25 23:57:14 Error: Fatal Error (1): Maximum execution time of 30 seconds exceeded in [C:\xampp\htdocs\fileuploader\lib\Cake\Cache\Engine\FileEngine.php, line 354]
+2016-07-25 23:57:14 Error: [FatalErrorException] Maximum execution time of 30 seconds exceeded
+Request URL: /fileuploader/
+Stack Trace:
+#0 C:\xampp\htdocs\fileuploader\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Maximum executi...', 'C:\\xampp\\htdocs...', 354)
+#1 [internal function]: ErrorHandler::handleError(1, 'Maximum executi...', 'C:\\xampp\\htdocs...', 354, Array)
+#2 C:\xampp\htdocs\fileuploader\lib\Cake\Core\App.php(970): call_user_func('ErrorHandler::h...', 1, 'Maximum executi...', 'C:\\xampp\\htdocs...', 354, Array)
+#3 C:\xampp\htdocs\fileuploader\lib\Cake\Core\App.php(943): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-07-25 23:57:14 Error: [FatalErrorException] Maximum execution time of 30 seconds exceeded
+Request URL: /fileuploader/
+Stack Trace:
+#0 C:\xampp\htdocs\fileuploader\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Maximum executi...', 'C:\\xampp\\htdocs...', 354)
+#1 [internal function]: ErrorHandler::handleError(1, 'Maximum executi...', 'C:\\xampp\\htdocs...', 354, Array)
+#2 C:\xampp\htdocs\fileuploader\lib\Cake\Core\App.php(970): call_user_func('ErrorHandler::h...', 1, 'Maximum executi...', 'C:\\xampp\\htdocs...', 354, Array)
+#3 C:\xampp\htdocs\fileuploader\lib\Cake\Core\App.php(943): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-07-25 23:57:14 Error: Fatal Error (1): Maximum execution time of 30 seconds exceeded in [C:\xampp\htdocs\fileuploader\lib\Cake\Cache\Engine\FileEngine.php, line 355]
+2016-07-25 23:57:14 Error: [FatalErrorException] Maximum execution time of 30 seconds exceeded
+Request URL: /fileuploader/
+Stack Trace:
+#0 C:\xampp\htdocs\fileuploader\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Maximum executi...', 'C:\\xampp\\htdocs...', 355)
+#1 [internal function]: ErrorHandler::handleError(1, 'Maximum executi...', 'C:\\xampp\\htdocs...', 355, Array)
+#2 C:\xampp\htdocs\fileuploader\lib\Cake\Core\App.php(970): call_user_func('ErrorHandler::h...', 1, 'Maximum executi...', 'C:\\xampp\\htdocs...', 355, Array)
+#3 C:\xampp\htdocs\fileuploader\lib\Cake\Core\App.php(943): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-07-25 23:58:59 Error: [PDOException] SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '0' for key 'PRIMARY'
+Request URL: /fileuploader/
+Stack Trace:
+#0 C:\xampp\htdocs\fileuploader\lib\Cake\Model\Datasource\DboSource.php(461): PDOStatement->execute(Array)
+#1 C:\xampp\htdocs\fileuploader\lib\Cake\Model\Datasource\DboSource.php(427): DboSource->_execute('INSERT INTO `fi...', Array)
+#2 C:\xampp\htdocs\fileuploader\lib\Cake\Model\Datasource\DboSource.php(1019): DboSource->execute('INSERT INTO `fi...')
+#3 C:\xampp\htdocs\fileuploader\lib\Cake\Model\Model.php(1933): DboSource->create(Object(File), Array, Array)
+#4 C:\xampp\htdocs\fileuploader\lib\Cake\Model\Model.php(1751): Model->_doSave(Array, Array)
+#5 C:\xampp\htdocs\fileuploader\app\Controller\FilesController.php(38): Model->save(Array)
+#6 [internal function]: FilesController->index('home')
+#7 C:\xampp\htdocs\fileuploader\lib\Cake\Controller\Controller.php(491): ReflectionMethod->invokeArgs(Object(FilesController), Array)
+#8 C:\xampp\htdocs\fileuploader\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#9 C:\xampp\htdocs\fileuploader\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(FilesController), Object(CakeRequest))
+#10 C:\xampp\htdocs\fileuploader\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#11 {main}
+2016-07-26 00:00:00 Error: [CakeException] Method getClientIp does not exist
+Request URL: /fileuploader/
+Stack Trace:
+#0 C:\xampp\htdocs\fileuploader\app\Controller\FilesController.php(42): CakeRequest->__call('getClientIp', Array)
+#1 C:\xampp\htdocs\fileuploader\app\Controller\FilesController.php(42): CakeRequest->getClientIp()
+#2 [internal function]: FilesController->index('home')
+#3 C:\xampp\htdocs\fileuploader\lib\Cake\Controller\Controller.php(491): ReflectionMethod->invokeArgs(Object(FilesController), Array)
+#4 C:\xampp\htdocs\fileuploader\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#5 C:\xampp\htdocs\fileuploader\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(FilesController), Object(CakeRequest))
+#6 C:\xampp\htdocs\fileuploader\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#7 {main}
+2016-07-26 00:02:32 Error: [CakeException] Method get_ip_address does not exist
+Request URL: /fileuploader/
+Stack Trace:
+#0 C:\xampp\htdocs\fileuploader\app\Controller\FilesController.php(42): CakeRequest->__call('get_ip_address', Array)
+#1 C:\xampp\htdocs\fileuploader\app\Controller\FilesController.php(42): CakeRequest->get_ip_address()
+#2 [internal function]: FilesController->index('home')
+#3 C:\xampp\htdocs\fileuploader\lib\Cake\Controller\Controller.php(491): ReflectionMethod->invokeArgs(Object(FilesController), Array)
+#4 C:\xampp\htdocs\fileuploader\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#5 C:\xampp\htdocs\fileuploader\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(FilesController), Object(CakeRequest))
+#6 C:\xampp\htdocs\fileuploader\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#7 {main}
+2016-07-26 00:03:21 Error: Fatal Error (1): Call to undefined function get_ip_address() in [C:\xampp\htdocs\fileuploader\app\Controller\FilesController.php, line 42]
+2016-07-26 00:03:21 Error: [FatalErrorException] Call to undefined function get_ip_address()
+Request URL: /fileuploader/
+Stack Trace:
+#0 C:\xampp\htdocs\fileuploader\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Call to undefin...', 'C:\\xampp\\htdocs...', 42)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to undefin...', 'C:\\xampp\\htdocs...', 42, Array)
+#2 C:\xampp\htdocs\fileuploader\lib\Cake\Core\App.php(970): call_user_func('ErrorHandler::h...', 1, 'Call to undefin...', 'C:\\xampp\\htdocs...', 42, Array)
+#3 C:\xampp\htdocs\fileuploader\lib\Cake\Core\App.php(943): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-07-26 00:05:02 Error: Fatal Error (1): Call to undefined method FilesController::get_ip_address() in [C:\xampp\htdocs\fileuploader\app\Controller\FilesController.php, line 42]
+2016-07-26 00:05:02 Error: [FatalErrorException] Call to undefined method FilesController::get_ip_address()
+Request URL: /fileuploader/
+Stack Trace:
+#0 C:\xampp\htdocs\fileuploader\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Call to undefin...', 'C:\\xampp\\htdocs...', 42)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to undefin...', 'C:\\xampp\\htdocs...', 42, Array)
+#2 C:\xampp\htdocs\fileuploader\lib\Cake\Core\App.php(970): call_user_func('ErrorHandler::h...', 1, 'Call to undefin...', 'C:\\xampp\\htdocs...', 42, Array)
+#3 C:\xampp\htdocs\fileuploader\lib\Cake\Core\App.php(943): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-07-26 00:08:18 Error: Fatal Error (4): syntax error, unexpected 'echo' (T_ECHO) in [C:\xampp\htdocs\fileuploader\app\View\Files\index.ctp, line 25]
+2016-07-26 00:08:18 Error: [FatalErrorException] syntax error, unexpected 'echo' (T_ECHO)
+Request URL: /fileuploader/
+Stack Trace:
+#0 C:\xampp\htdocs\fileuploader\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'C:\\xampp\\htdocs...', 25)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'C:\\xampp\\htdocs...', 25, Array)
+#2 C:\xampp\htdocs\fileuploader\lib\Cake\Core\App.php(970): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'C:\\xampp\\htdocs...', 25, Array)
+#3 C:\xampp\htdocs\fileuploader\lib\Cake\Core\App.php(943): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-07-26 00:16:59 Error: [PDOException] SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'get_ip_address' at line 1
+Request URL: /fileuploader/
+Stack Trace:
+#0 C:\xampp\htdocs\fileuploader\lib\Cake\Model\Datasource\DboSource.php(461): PDOStatement->execute(Array)
+#1 C:\xampp\htdocs\fileuploader\lib\Cake\Model\Datasource\DboSource.php(427): DboSource->_execute('get_ip_address', Array)
+#2 C:\xampp\htdocs\fileuploader\lib\Cake\Model\Datasource\DboSource.php(664): DboSource->execute('get_ip_address', Array, Array)
+#3 C:\xampp\htdocs\fileuploader\lib\Cake\Model\Datasource\DboSource.php(607): DboSource->fetchAll('get_ip_address', Array, Array)
+#4 C:\xampp\htdocs\fileuploader\lib\Cake\Model\Model.php(827): DboSource->query('get_ip_address', Array, Object(File))
+#5 C:\xampp\htdocs\fileuploader\app\Controller\FilesController.php(44): Model->__call('get_ip_address', Array)
+#6 C:\xampp\htdocs\fileuploader\app\Controller\FilesController.php(44): File->get_ip_address()
+#7 [internal function]: FilesController->index('home')
+#8 C:\xampp\htdocs\fileuploader\lib\Cake\Controller\Controller.php(491): ReflectionMethod->invokeArgs(Object(FilesController), Array)
+#9 C:\xampp\htdocs\fileuploader\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#10 C:\xampp\htdocs\fileuploader\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(FilesController), Object(CakeRequest))
+#11 C:\xampp\htdocs\fileuploader\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#12 {main}
+2016-07-26 00:18:41 Error: Fatal Error (1): Call to a member function get_ip_address() on null in [C:\xampp\htdocs\fileuploader\app\Controller\FilesController.php, line 44]
+2016-07-26 00:18:41 Error: [FatalErrorException] Call to a member function get_ip_address() on null
+Request URL: /fileuploader/
+Stack Trace:
+#0 C:\xampp\htdocs\fileuploader\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Call to a membe...', 'C:\\xampp\\htdocs...', 44)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', 'C:\\xampp\\htdocs...', 44, Array)
+#2 C:\xampp\htdocs\fileuploader\lib\Cake\Core\App.php(970): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', 'C:\\xampp\\htdocs...', 44, Array)
+#3 C:\xampp\htdocs\fileuploader\lib\Cake\Core\App.php(943): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-07-26 00:22:41 Error: Fatal Error (1): Call to a member function count() on array in [C:\xampp\htdocs\fileuploader\app\Controller\FilesController.php, line 67]
+2016-07-26 00:22:41 Error: [FatalErrorException] Call to a member function count() on array
+Request URL: /fileuploader/
+Stack Trace:
+#0 C:\xampp\htdocs\fileuploader\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Call to a membe...', 'C:\\xampp\\htdocs...', 67)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', 'C:\\xampp\\htdocs...', 67, Array)
+#2 C:\xampp\htdocs\fileuploader\lib\Cake\Core\App.php(970): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', 'C:\\xampp\\htdocs...', 67, Array)
+#3 C:\xampp\htdocs\fileuploader\lib\Cake\Core\App.php(943): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-07-26 00:23:53 Error: Fatal Error (1): Call to a member function count() on null in [C:\xampp\htdocs\fileuploader\app\Controller\FilesController.php, line 67]
+2016-07-26 00:23:53 Error: [FatalErrorException] Call to a member function count() on null
+Request URL: /fileuploader/
+Stack Trace:
+#0 C:\xampp\htdocs\fileuploader\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Call to a membe...', 'C:\\xampp\\htdocs...', 67)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', 'C:\\xampp\\htdocs...', 67, Array)
+#2 C:\xampp\htdocs\fileuploader\lib\Cake\Core\App.php(970): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', 'C:\\xampp\\htdocs...', 67, Array)
+#3 C:\xampp\htdocs\fileuploader\lib\Cake\Core\App.php(943): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-07-26 00:24:01 Error: Fatal Error (1): Call to a member function count() on null in [C:\xampp\htdocs\fileuploader\app\Controller\FilesController.php, line 67]
+2016-07-26 00:24:01 Error: [FatalErrorException] Call to a member function count() on null
+Request URL: /fileuploader/
+Stack Trace:
+#0 C:\xampp\htdocs\fileuploader\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Call to a membe...', 'C:\\xampp\\htdocs...', 67)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', 'C:\\xampp\\htdocs...', 67, Array)
+#2 C:\xampp\htdocs\fileuploader\lib\Cake\Core\App.php(970): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', 'C:\\xampp\\htdocs...', 67, Array)
+#3 C:\xampp\htdocs\fileuploader\lib\Cake\Core\App.php(943): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-07-26 00:24:40 Error: Fatal Error (1): Call to a member function count() on array in [C:\xampp\htdocs\fileuploader\app\Controller\FilesController.php, line 67]
+2016-07-26 00:24:40 Error: [FatalErrorException] Call to a member function count() on array
+Request URL: /fileuploader/
+Stack Trace:
+#0 C:\xampp\htdocs\fileuploader\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Call to a membe...', 'C:\\xampp\\htdocs...', 67)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', 'C:\\xampp\\htdocs...', 67, Array)
+#2 C:\xampp\htdocs\fileuploader\lib\Cake\Core\App.php(970): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', 'C:\\xampp\\htdocs...', 67, Array)
+#3 C:\xampp\htdocs\fileuploader\lib\Cake\Core\App.php(943): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-07-26 00:26:26 Error: [PDOException] SQLSTATE[42S22]: Column not found: 1054 Unknown column 'Files.created' in 'order clause'
+Request URL: /fileuploader/
+Stack Trace:
+#0 C:\xampp\htdocs\fileuploader\lib\Cake\Model\Datasource\DboSource.php(461): PDOStatement->execute(Array)
+#1 C:\xampp\htdocs\fileuploader\lib\Cake\Model\Datasource\DboSource.php(427): DboSource->_execute('SELECT `File`.`...', Array)
+#2 C:\xampp\htdocs\fileuploader\lib\Cake\Model\Datasource\DboSource.php(664): DboSource->execute('SELECT `File`.`...', Array, Array)
+#3 C:\xampp\htdocs\fileuploader\lib\Cake\Model\Datasource\DboSource.php(1113): DboSource->fetchAll('SELECT `File`.`...', false)
+#4 C:\xampp\htdocs\fileuploader\lib\Cake\Model\Model.php(3031): DboSource->read(Object(File), Array)
+#5 C:\xampp\htdocs\fileuploader\lib\Cake\Model\Model.php(3003): Model->_readDataSource('all', Array)
+#6 C:\xampp\htdocs\fileuploader\app\Controller\FilesController.php(66): Model->find('all', Array)
+#7 [internal function]: FilesController->index('home')
+#8 C:\xampp\htdocs\fileuploader\lib\Cake\Controller\Controller.php(491): ReflectionMethod->invokeArgs(Object(FilesController), Array)
+#9 C:\xampp\htdocs\fileuploader\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#10 C:\xampp\htdocs\fileuploader\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(FilesController), Object(CakeRequest))
+#11 C:\xampp\htdocs\fileuploader\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#12 {main}
+2016-07-26 00:26:56 Error: Fatal Error (1): Call to a member function get_ip_address() on null in [C:\xampp\htdocs\fileuploader\app\Controller\FilesController.php, line 44]
+2016-07-26 00:26:56 Error: [FatalErrorException] Call to a member function get_ip_address() on null
+Request URL: /fileuploader/
+Stack Trace:
+#0 C:\xampp\htdocs\fileuploader\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Call to a membe...', 'C:\\xampp\\htdocs...', 44)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', 'C:\\xampp\\htdocs...', 44, Array)
+#2 C:\xampp\htdocs\fileuploader\lib\Cake\Core\App.php(970): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', 'C:\\xampp\\htdocs...', 44, Array)
+#3 C:\xampp\htdocs\fileuploader\lib\Cake\Core\App.php(943): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-07-26 00:27:19 Error: Fatal Error (1): Call to a member function get_ip_address() on null in [C:\xampp\htdocs\fileuploader\app\Controller\FilesController.php, line 44]
+2016-07-26 00:27:19 Error: [FatalErrorException] Call to a member function get_ip_address() on null
+Request URL: /fileuploader/
+Stack Trace:
+#0 C:\xampp\htdocs\fileuploader\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Call to a membe...', 'C:\\xampp\\htdocs...', 44)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', 'C:\\xampp\\htdocs...', 44, Array)
+#2 C:\xampp\htdocs\fileuploader\lib\Cake\Core\App.php(970): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', 'C:\\xampp\\htdocs...', 44, Array)
+#3 C:\xampp\htdocs\fileuploader\lib\Cake\Core\App.php(943): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-07-26 00:37:14 Error: Fatal Error (1): Call to a member function get_ip_address() on null in [C:\xampp\htdocs\fileuploader\app\Controller\FilesController.php, line 43]
+2016-07-26 00:37:14 Error: [FatalErrorException] Call to a member function get_ip_address() on null
+Request URL: /fileuploader/
+Stack Trace:
+#0 C:\xampp\htdocs\fileuploader\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Call to a membe...', 'C:\\xampp\\htdocs...', 43)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', 'C:\\xampp\\htdocs...', 43, Array)
+#2 C:\xampp\htdocs\fileuploader\lib\Cake\Core\App.php(970): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', 'C:\\xampp\\htdocs...', 43, Array)
+#3 C:\xampp\htdocs\fileuploader\lib\Cake\Core\App.php(943): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-07-26 01:05:26 Error: Fatal Error (4): syntax error, unexpected '->' (T_OBJECT_OPERATOR), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in [C:\xampp\htdocs\fileuploader\app\Controller\FilesController.php, line 36]
+2016-07-26 01:05:26 Error: [FatalErrorException] syntax error, unexpected '->' (T_OBJECT_OPERATOR), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$'
+Request URL: /fileuploader/
+Stack Trace:
+#0 C:\xampp\htdocs\fileuploader\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'C:\\xampp\\htdocs...', 36)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'C:\\xampp\\htdocs...', 36, Array)
+#2 C:\xampp\htdocs\fileuploader\lib\Cake\Core\App.php(970): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'C:\\xampp\\htdocs...', 36, Array)
+#3 C:\xampp\htdocs\fileuploader\lib\Cake\Core\App.php(943): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-07-26 01:10:54 Error: Fatal Error (4): syntax error, unexpected 'if' (T_IF) in [C:\xampp\htdocs\fileuploader\app\Controller\FilesController.php, line 42]
+2016-07-26 01:10:54 Error: [FatalErrorException] syntax error, unexpected 'if' (T_IF)
+Request URL: /fileuploader/
+Stack Trace:
+#0 C:\xampp\htdocs\fileuploader\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'C:\\xampp\\htdocs...', 42)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'C:\\xampp\\htdocs...', 42, Array)
+#2 C:\xampp\htdocs\fileuploader\lib\Cake\Core\App.php(970): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'C:\\xampp\\htdocs...', 42, Array)
+#3 C:\xampp\htdocs\fileuploader\lib\Cake\Core\App.php(943): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-07-26 02:35:12 Error: Fatal Error (4): syntax error, unexpected '=', expecting ')' in [C:\xampp\htdocs\fileuploader\app\Controller\FilesController.php, line 40]
+2016-07-26 02:35:12 Error: [FatalErrorException] syntax error, unexpected '=', expecting ')'
+Request URL: /fileuploader/
+Stack Trace:
+#0 C:\xampp\htdocs\fileuploader\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'C:\\xampp\\htdocs...', 40)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'C:\\xampp\\htdocs...', 40, Array)
+#2 C:\xampp\htdocs\fileuploader\lib\Cake\Core\App.php(970): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'C:\\xampp\\htdocs...', 40, Array)
+#3 C:\xampp\htdocs\fileuploader\lib\Cake\Core\App.php(943): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-07-26 02:35:24 Error: [MissingActionException] Action FilesController::Andrew Edelson Resume.docx() could not be found.
+Exception Attributes: array (
+  'controller' => 'FilesController',
+  'action' => 'Andrew Edelson Resume.docx',
+)
+Request URL: /fileuploader/files/Andrew%20Edelson%20Resume.docx
+Stack Trace:
+#0 C:\xampp\htdocs\fileuploader\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\fileuploader\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(FilesController), Object(CakeRequest))
+#2 C:\xampp\htdocs\fileuploader\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2016-07-26 02:35:24 Error: [MissingActionException] Action FilesController::Andrew Edelson Resume (1) (3).docx() could not be found.
+Exception Attributes: array (
+  'controller' => 'FilesController',
+  'action' => 'Andrew Edelson Resume (1) (3).docx',
+)
+Request URL: /fileuploader/files/Andrew%20Edelson%20Resume%20(1)%20(3).docx
+Stack Trace:
+#0 C:\xampp\htdocs\fileuploader\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\fileuploader\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(FilesController), Object(CakeRequest))
+#2 C:\xampp\htdocs\fileuploader\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2016-07-26 02:35:24 Error: [MissingActionException] Action FilesController::Andrew Edelson Resume.docx() could not be found.
+Exception Attributes: array (
+  'controller' => 'FilesController',
+  'action' => 'Andrew Edelson Resume.docx',
+)
+Request URL: /fileuploader/files/Andrew%20Edelson%20Resume.docx
+Stack Trace:
+#0 C:\xampp\htdocs\fileuploader\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\fileuploader\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(FilesController), Object(CakeRequest))
+#2 C:\xampp\htdocs\fileuploader\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2016-07-26 02:35:46 Error: [MissingActionException] Action FilesController::Andrew Edelson Resume (1) (3).docx() could not be found.
+Exception Attributes: array (
+  'controller' => 'FilesController',
+  'action' => 'Andrew Edelson Resume (1) (3).docx',
+)
+Request URL: /fileuploader/files/Andrew%20Edelson%20Resume%20(1)%20(3).docx
+Stack Trace:
+#0 C:\xampp\htdocs\fileuploader\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\fileuploader\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(FilesController), Object(CakeRequest))
+#2 C:\xampp\htdocs\fileuploader\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2016-07-26 02:35:46 Error: [MissingActionException] Action FilesController::Andrew Edelson Resume.docx() could not be found.
+Exception Attributes: array (
+  'controller' => 'FilesController',
+  'action' => 'Andrew Edelson Resume.docx',
+)
+Request URL: /fileuploader/files/Andrew%20Edelson%20Resume.docx
+Stack Trace:
+#0 C:\xampp\htdocs\fileuploader\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\fileuploader\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(FilesController), Object(CakeRequest))
+#2 C:\xampp\htdocs\fileuploader\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2016-07-26 02:36:05 Error: [MissingActionException] Action FilesController::Andrew Edelson Resume.docx() could not be found.
+Exception Attributes: array (
+  'controller' => 'FilesController',
+  'action' => 'Andrew Edelson Resume.docx',
+)
+Request URL: /fileuploader/files/Andrew%20Edelson%20Resume.docx
+Stack Trace:
+#0 C:\xampp\htdocs\fileuploader\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\fileuploader\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(FilesController), Object(CakeRequest))
+#2 C:\xampp\htdocs\fileuploader\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2016-07-26 02:36:05 Error: [MissingActionException] Action FilesController::Andrew Edelson Resume (1) (3).docx() could not be found.
+Exception Attributes: array (
+  'controller' => 'FilesController',
+  'action' => 'Andrew Edelson Resume (1) (3).docx',
+)
+Request URL: /fileuploader/files/Andrew%20Edelson%20Resume%20(1)%20(3).docx
+Stack Trace:
+#0 C:\xampp\htdocs\fileuploader\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\fileuploader\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(FilesController), Object(CakeRequest))
+#2 C:\xampp\htdocs\fileuploader\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2016-07-26 02:36:10 Error: [MissingActionException] Action FilesController::Andrew Edelson Resume.docx() could not be found.
+Exception Attributes: array (
+  'controller' => 'FilesController',
+  'action' => 'Andrew Edelson Resume.docx',
+)
+Request URL: /fileuploader/files/Andrew%20Edelson%20Resume.docx
+Stack Trace:
+#0 C:\xampp\htdocs\fileuploader\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\fileuploader\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(FilesController), Object(CakeRequest))
+#2 C:\xampp\htdocs\fileuploader\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2016-07-26 02:36:10 Error: [MissingActionException] Action FilesController::Andrew Edelson Resume (1) (3).docx() could not be found.
+Exception Attributes: array (
+  'controller' => 'FilesController',
+  'action' => 'Andrew Edelson Resume (1) (3).docx',
+)
+Request URL: /fileuploader/files/Andrew%20Edelson%20Resume%20(1)%20(3).docx
+Stack Trace:
+#0 C:\xampp\htdocs\fileuploader\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\fileuploader\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(FilesController), Object(CakeRequest))
+#2 C:\xampp\htdocs\fileuploader\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2016-07-26 02:36:43 Error: [MissingActionException] Action FilesController::Andrew Edelson Resume (1) (3).docx() could not be found.
+Exception Attributes: array (
+  'controller' => 'FilesController',
+  'action' => 'Andrew Edelson Resume (1) (3).docx',
+)
+Request URL: /fileuploader/files/Andrew%20Edelson%20Resume%20(1)%20(3).docx
+Stack Trace:
+#0 C:\xampp\htdocs\fileuploader\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\fileuploader\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(FilesController), Object(CakeRequest))
+#2 C:\xampp\htdocs\fileuploader\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2016-07-26 02:36:43 Error: [MissingActionException] Action FilesController::Andrew Edelson Resume.docx() could not be found.
+Exception Attributes: array (
+  'controller' => 'FilesController',
+  'action' => 'Andrew Edelson Resume.docx',
+)
+Request URL: /fileuploader/files/Andrew%20Edelson%20Resume.docx
+Stack Trace:
+#0 C:\xampp\htdocs\fileuploader\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\fileuploader\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(FilesController), Object(CakeRequest))
+#2 C:\xampp\htdocs\fileuploader\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2016-07-26 02:36:49 Error: [MissingActionException] Action FilesController::Andrew Edelson Resume (1) (3).docx() could not be found.
+Exception Attributes: array (
+  'controller' => 'FilesController',
+  'action' => 'Andrew Edelson Resume (1) (3).docx',
+)
+Request URL: /fileuploader/files/Andrew%20Edelson%20Resume%20(1)%20(3).docx
+Stack Trace:
+#0 C:\xampp\htdocs\fileuploader\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\fileuploader\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(FilesController), Object(CakeRequest))
+#2 C:\xampp\htdocs\fileuploader\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2016-07-26 02:36:49 Error: [MissingActionException] Action FilesController::Andrew Edelson Resume.docx() could not be found.
+Exception Attributes: array (
+  'controller' => 'FilesController',
+  'action' => 'Andrew Edelson Resume.docx',
+)
+Request URL: /fileuploader/files/Andrew%20Edelson%20Resume.docx
+Stack Trace:
+#0 C:\xampp\htdocs\fileuploader\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\fileuploader\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(FilesController), Object(CakeRequest))
+#2 C:\xampp\htdocs\fileuploader\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2016-07-26 02:42:47 Error: [MissingActionException] Action FilesController::Andrew Edelson Resume.docx() could not be found.
+Exception Attributes: array (
+  'controller' => 'FilesController',
+  'action' => 'Andrew Edelson Resume.docx',
+)
+Request URL: /fileuploader/files/Andrew%20Edelson%20Resume.docx
+Stack Trace:
+#0 C:\xampp\htdocs\fileuploader\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\fileuploader\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(FilesController), Object(CakeRequest))
+#2 C:\xampp\htdocs\fileuploader\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
