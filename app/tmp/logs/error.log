@@ -1381,3 +1381,26 @@ Stack Trace:
 #1 C:\xampp\htdocs\fileuploader\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(FilesController), Object(CakeRequest))
 #2 C:\xampp\htdocs\fileuploader\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
 #3 {main}
+2016-07-27 10:05:49 Error: [MissingConnectionException] Database connection "Mysql" is missing, or could not be created.
+Exception Attributes: array (
+  'class' => 'Mysql',
+  'message' => 'SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it.
+',
+  'enabled' => true,
+)
+Request URL: /fileuploader/
+Stack Trace:
+#0 C:\xampp\htdocs\fileuploader\lib\Cake\Model\Datasource\DboSource.php(260): Mysql->connect()
+#1 C:\xampp\htdocs\fileuploader\lib\Cake\Model\ConnectionManager.php(105): DboSource->__construct(Array)
+#2 C:\xampp\htdocs\fileuploader\lib\Cake\Model\Model.php(3626): ConnectionManager::getDataSource('default')
+#3 C:\xampp\htdocs\fileuploader\lib\Cake\Model\Model.php(1155): Model->setDataSource('default')
+#4 C:\xampp\htdocs\fileuploader\lib\Cake\Model\Model.php(3653): Model->setSource('files')
+#5 C:\xampp\htdocs\fileuploader\lib\Cake\Model\Model.php(3031): Model->getDataSource()
+#6 C:\xampp\htdocs\fileuploader\lib\Cake\Model\Model.php(3003): Model->_readDataSource('all', Array)
+#7 C:\xampp\htdocs\fileuploader\app\Controller\FilesController.php(80): Model->find('all', Array)
+#8 [internal function]: FilesController->index('home')
+#9 C:\xampp\htdocs\fileuploader\lib\Cake\Controller\Controller.php(491): ReflectionMethod->invokeArgs(Object(FilesController), Array)
+#10 C:\xampp\htdocs\fileuploader\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#11 C:\xampp\htdocs\fileuploader\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(FilesController), Object(CakeRequest))
+#12 C:\xampp\htdocs\fileuploader\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#13 {main}

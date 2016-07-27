@@ -56,7 +56,6 @@ class FilesController extends AppController {
               'created' => date("Y-m-d H:i:s"),
               'ip_address' => $ipaddress
             );
-          $this->Files->save($uploadData);
 
           if ($this->Files->save($uploadData)) {
 
